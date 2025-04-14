@@ -1,0 +1,7 @@
+swanlab: Tracking run with swanlab version 0.5.5
+swanlab: Run data will be saved locally in /home/moe_test/swanlog/run-20250409_213936-4dd96d72
+swanlab: 🌟 Run `swanlab watch /home/moe_test/swanlog` to view SwanLab Experiment Dashboard locally
+
+--- Epoch 1/50 ---
+swanlab: Experiment Kepler-MoE has completed
+swanlab: 🌟 Run `swanlab watch /home/moe_test/swanlog` to view SwanLab Experiment Dashboard locally

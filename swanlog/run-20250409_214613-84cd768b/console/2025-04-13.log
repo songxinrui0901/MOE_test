@@ -1,0 +1,3563 @@
+Validation Batch 515/700, Validation Accuracy: 92.35%
+Validation Batch 520/700, Validation Accuracy: 92.36%
+Validation Batch 525/700, Validation Accuracy: 92.34%
+Validation Batch 530/700, Validation Accuracy: 92.35%
+Validation Batch 535/700, Validation Accuracy: 92.33%
+Validation Batch 540/700, Validation Accuracy: 92.32%
+Validation Batch 545/700, Validation Accuracy: 92.32%
+Validation Batch 550/700, Validation Accuracy: 92.31%
+Validation Batch 555/700, Validation Accuracy: 92.30%
+Validation Batch 560/700, Validation Accuracy: 92.28%
+Validation Batch 565/700, Validation Accuracy: 92.27%
+Validation Batch 570/700, Validation Accuracy: 92.28%
+Validation Batch 575/700, Validation Accuracy: 92.27%
+Validation Batch 580/700, Validation Accuracy: 92.28%
+Validation Batch 585/700, Validation Accuracy: 92.30%
+Validation Batch 590/700, Validation Accuracy: 92.29%
+Validation Batch 595/700, Validation Accuracy: 92.29%
+Validation Batch 600/700, Validation Accuracy: 92.29%
+Validation Batch 605/700, Validation Accuracy: 92.29%
+Validation Batch 610/700, Validation Accuracy: 92.29%
+Validation Batch 615/700, Validation Accuracy: 92.27%
+Validation Batch 620/700, Validation Accuracy: 92.26%
+Validation Batch 625/700, Validation Accuracy: 92.26%
+Validation Batch 630/700, Validation Accuracy: 92.26%
+Validation Batch 635/700, Validation Accuracy: 92.25%
+Validation Batch 640/700, Validation Accuracy: 92.24%
+Validation Batch 645/700, Validation Accuracy: 92.26%
+Validation Batch 650/700, Validation Accuracy: 92.26%
+Validation Batch 655/700, Validation Accuracy: 92.28%
+Validation Batch 660/700, Validation Accuracy: 92.28%
+Validation Batch 665/700, Validation Accuracy: 92.27%
+Validation Batch 670/700, Validation Accuracy: 92.27%
+Validation Batch 675/700, Validation Accuracy: 92.28%
+Validation Batch 680/700, Validation Accuracy: 92.28%
+Validation Batch 685/700, Validation Accuracy: 92.28%
+Validation Batch 690/700, Validation Accuracy: 92.29%
+Validation Batch 695/700, Validation Accuracy: 92.29%
+Validation Batch 700/700, Validation Accuracy: 92.29%
+Validation Accuracy for Epoch 19: 92.29%
+New Best Model Saved! Validation Accuracy: 92.29%
+
+--- Epoch 20/50 ---
+Batch 5/2797, Loss: 0.1587, Train Acc: 94.06%
+Batch 10/2797, Loss: 0.1588, Train Acc: 94.14%
+Batch 15/2797, Loss: 0.1607, Train Acc: 94.11%
+Batch 20/2797, Loss: 0.1599, Train Acc: 93.87%
+Batch 25/2797, Loss: 0.1594, Train Acc: 93.94%
+Batch 30/2797, Loss: 0.1632, Train Acc: 93.93%
+Batch 35/2797, Loss: 0.1611, Train Acc: 94.06%
+Batch 40/2797, Loss: 0.1595, Train Acc: 93.98%
+Batch 45/2797, Loss: 0.1621, Train Acc: 93.85%
+Batch 50/2797, Loss: 0.1599, Train Acc: 94.05%
+Batch 55/2797, Loss: 0.1607, Train Acc: 93.96%
+Batch 60/2797, Loss: 0.1597, Train Acc: 94.00%
+Batch 65/2797, Loss: 0.1616, Train Acc: 93.91%
+Batch 70/2797, Loss: 0.1630, Train Acc: 93.82%
+Batch 75/2797, Loss: 0.1612, Train Acc: 93.95%
+Batch 80/2797, Loss: 0.1605, Train Acc: 93.97%
+Batch 85/2797, Loss: 0.1585, Train Acc: 94.07%
+Batch 90/2797, Loss: 0.1578, Train Acc: 94.13%
+Batch 95/2797, Loss: 0.1566, Train Acc: 94.19%
+Batch 100/2797, Loss: 0.1555, Train Acc: 94.20%
+Batch 105/2797, Loss: 0.1550, Train Acc: 94.17%
+Batch 110/2797, Loss: 0.1541, Train Acc: 94.21%
+Batch 115/2797, Loss: 0.1526, Train Acc: 94.27%
+Batch 120/2797, Loss: 0.1523, Train Acc: 94.30%
+Batch 125/2797, Loss: 0.1524, Train Acc: 94.32%
+Batch 130/2797, Loss: 0.1521, Train Acc: 94.31%
+Batch 135/2797, Loss: 0.1522, Train Acc: 94.33%
+Batch 140/2797, Loss: 0.1519, Train Acc: 94.36%
+Batch 145/2797, Loss: 0.1528, Train Acc: 94.36%
+Batch 150/2797, Loss: 0.1525, Train Acc: 94.40%
+Batch 155/2797, Loss: 0.1521, Train Acc: 94.39%
+Batch 160/2797, Loss: 0.1527, Train Acc: 94.37%
+Batch 165/2797, Loss: 0.1518, Train Acc: 94.41%
+Batch 170/2797, Loss: 0.1514, Train Acc: 94.44%
+Batch 175/2797, Loss: 0.1511, Train Acc: 94.45%
+Batch 180/2797, Loss: 0.1518, Train Acc: 94.41%
+Batch 185/2797, Loss: 0.1520, Train Acc: 94.40%
+Batch 190/2797, Loss: 0.1526, Train Acc: 94.40%
+Batch 195/2797, Loss: 0.1532, Train Acc: 94.39%
+Batch 200/2797, Loss: 0.1529, Train Acc: 94.40%
+Batch 205/2797, Loss: 0.1535, Train Acc: 94.36%
+Batch 210/2797, Loss: 0.1529, Train Acc: 94.38%
+Batch 215/2797, Loss: 0.1520, Train Acc: 94.41%
+Batch 220/2797, Loss: 0.1521, Train Acc: 94.42%
+Batch 225/2797, Loss: 0.1517, Train Acc: 94.43%
+Batch 230/2797, Loss: 0.1524, Train Acc: 94.41%
+Batch 235/2797, Loss: 0.1521, Train Acc: 94.41%
+Batch 240/2797, Loss: 0.1513, Train Acc: 94.45%
+Batch 245/2797, Loss: 0.1518, Train Acc: 94.44%
+Batch 250/2797, Loss: 0.1518, Train Acc: 94.42%
+Batch 255/2797, Loss: 0.1519, Train Acc: 94.43%
+Batch 260/2797, Loss: 0.1523, Train Acc: 94.42%
+Batch 265/2797, Loss: 0.1523, Train Acc: 94.43%
+Batch 270/2797, Loss: 0.1528, Train Acc: 94.40%
+Batch 275/2797, Loss: 0.1529, Train Acc: 94.39%
+Batch 280/2797, Loss: 0.1526, Train Acc: 94.40%
+Batch 285/2797, Loss: 0.1527, Train Acc: 94.40%
+Batch 290/2797, Loss: 0.1529, Train Acc: 94.37%
+Batch 295/2797, Loss: 0.1530, Train Acc: 94.38%
+Batch 300/2797, Loss: 0.1532, Train Acc: 94.38%
+Batch 305/2797, Loss: 0.1537, Train Acc: 94.35%
+Batch 310/2797, Loss: 0.1538, Train Acc: 94.34%
+Batch 315/2797, Loss: 0.1542, Train Acc: 94.32%
+Batch 320/2797, Loss: 0.1540, Train Acc: 94.34%
+Batch 325/2797, Loss: 0.1536, Train Acc: 94.36%
+Batch 330/2797, Loss: 0.1536, Train Acc: 94.36%
+Batch 335/2797, Loss: 0.1537, Train Acc: 94.34%
+Batch 340/2797, Loss: 0.1532, Train Acc: 94.37%
+Batch 345/2797, Loss: 0.1533, Train Acc: 94.37%
+Batch 350/2797, Loss: 0.1531, Train Acc: 94.37%
+Batch 355/2797, Loss: 0.1528, Train Acc: 94.37%
+Batch 360/2797, Loss: 0.1526, Train Acc: 94.39%
+Batch 365/2797, Loss: 0.1529, Train Acc: 94.38%
+Batch 370/2797, Loss: 0.1527, Train Acc: 94.37%
+Batch 375/2797, Loss: 0.1525, Train Acc: 94.39%
+Batch 380/2797, Loss: 0.1527, Train Acc: 94.38%
+Batch 385/2797, Loss: 0.1528, Train Acc: 94.39%
+Batch 390/2797, Loss: 0.1527, Train Acc: 94.39%
+Batch 395/2797, Loss: 0.1523, Train Acc: 94.40%
+Batch 400/2797, Loss: 0.1524, Train Acc: 94.41%
+Batch 405/2797, Loss: 0.1523, Train Acc: 94.41%
+Batch 410/2797, Loss: 0.1522, Train Acc: 94.41%
+Batch 415/2797, Loss: 0.1523, Train Acc: 94.41%
+Batch 420/2797, Loss: 0.1524, Train Acc: 94.40%
+Batch 425/2797, Loss: 0.1524, Train Acc: 94.40%
+Batch 430/2797, Loss: 0.1524, Train Acc: 94.41%
+Batch 435/2797, Loss: 0.1523, Train Acc: 94.41%
+Batch 440/2797, Loss: 0.1525, Train Acc: 94.40%
+Batch 445/2797, Loss: 0.1525, Train Acc: 94.40%
+Batch 450/2797, Loss: 0.1528, Train Acc: 94.39%
+Batch 455/2797, Loss: 0.1526, Train Acc: 94.39%
+Batch 460/2797, Loss: 0.1529, Train Acc: 94.39%
+Batch 465/2797, Loss: 0.1529, Train Acc: 94.38%
+Batch 470/2797, Loss: 0.1524, Train Acc: 94.41%
+Batch 475/2797, Loss: 0.1523, Train Acc: 94.41%
+Batch 480/2797, Loss: 0.1524, Train Acc: 94.39%
+Batch 485/2797, Loss: 0.1521, Train Acc: 94.40%
+Batch 490/2797, Loss: 0.1522, Train Acc: 94.40%
+Batch 495/2797, Loss: 0.1520, Train Acc: 94.40%
+Batch 500/2797, Loss: 0.1520, Train Acc: 94.40%
+Batch 505/2797, Loss: 0.1521, Train Acc: 94.39%
+Batch 510/2797, Loss: 0.1523, Train Acc: 94.39%
+Batch 515/2797, Loss: 0.1521, Train Acc: 94.39%
+Batch 520/2797, Loss: 0.1521, Train Acc: 94.39%
+Batch 525/2797, Loss: 0.1520, Train Acc: 94.39%
+Batch 530/2797, Loss: 0.1519, Train Acc: 94.40%
+Batch 535/2797, Loss: 0.1520, Train Acc: 94.40%
+Batch 540/2797, Loss: 0.1519, Train Acc: 94.40%
+Batch 545/2797, Loss: 0.1517, Train Acc: 94.40%
+Batch 550/2797, Loss: 0.1516, Train Acc: 94.40%
+Batch 555/2797, Loss: 0.1516, Train Acc: 94.41%
+Batch 560/2797, Loss: 0.1515, Train Acc: 94.41%
+Batch 565/2797, Loss: 0.1514, Train Acc: 94.42%
+Batch 570/2797, Loss: 0.1512, Train Acc: 94.43%
+Batch 575/2797, Loss: 0.1510, Train Acc: 94.43%
+Batch 580/2797, Loss: 0.1510, Train Acc: 94.43%
+Batch 585/2797, Loss: 0.1509, Train Acc: 94.43%
+Batch 590/2797, Loss: 0.1511, Train Acc: 94.43%
+Batch 595/2797, Loss: 0.1511, Train Acc: 94.42%
+Batch 600/2797, Loss: 0.1510, Train Acc: 94.42%
+Batch 605/2797, Loss: 0.1508, Train Acc: 94.43%
+Batch 610/2797, Loss: 0.1508, Train Acc: 94.43%
+Batch 615/2797, Loss: 0.1510, Train Acc: 94.42%
+Batch 620/2797, Loss: 0.1508, Train Acc: 94.42%
+Batch 625/2797, Loss: 0.1507, Train Acc: 94.43%
+Batch 630/2797, Loss: 0.1506, Train Acc: 94.43%
+Batch 635/2797, Loss: 0.1508, Train Acc: 94.43%
+Batch 640/2797, Loss: 0.1507, Train Acc: 94.43%
+Batch 645/2797, Loss: 0.1507, Train Acc: 94.43%
+Batch 650/2797, Loss: 0.1507, Train Acc: 94.43%
+Batch 655/2797, Loss: 0.1506, Train Acc: 94.44%
+Batch 660/2797, Loss: 0.1505, Train Acc: 94.45%
+Batch 665/2797, Loss: 0.1506, Train Acc: 94.45%
+Batch 670/2797, Loss: 0.1505, Train Acc: 94.45%
+Batch 675/2797, Loss: 0.1507, Train Acc: 94.44%
+Batch 680/2797, Loss: 0.1509, Train Acc: 94.44%
+Batch 685/2797, Loss: 0.1508, Train Acc: 94.44%
+Batch 690/2797, Loss: 0.1508, Train Acc: 94.44%
+Batch 695/2797, Loss: 0.1507, Train Acc: 94.45%
+Batch 700/2797, Loss: 0.1506, Train Acc: 94.45%
+Batch 705/2797, Loss: 0.1508, Train Acc: 94.44%
+Batch 710/2797, Loss: 0.1506, Train Acc: 94.45%
+Batch 715/2797, Loss: 0.1508, Train Acc: 94.44%
+Batch 720/2797, Loss: 0.1508, Train Acc: 94.43%
+Batch 725/2797, Loss: 0.1507, Train Acc: 94.44%
+Batch 730/2797, Loss: 0.1505, Train Acc: 94.44%
+Batch 735/2797, Loss: 0.1504, Train Acc: 94.45%
+Batch 740/2797, Loss: 0.1505, Train Acc: 94.44%
+Batch 745/2797, Loss: 0.1503, Train Acc: 94.45%
+Batch 750/2797, Loss: 0.1502, Train Acc: 94.45%
+Batch 755/2797, Loss: 0.1498, Train Acc: 94.46%
+Batch 760/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 765/2797, Loss: 0.1496, Train Acc: 94.47%
+Batch 770/2797, Loss: 0.1497, Train Acc: 94.47%
+Batch 775/2797, Loss: 0.1496, Train Acc: 94.48%
+Batch 780/2797, Loss: 0.1496, Train Acc: 94.48%
+Batch 785/2797, Loss: 0.1495, Train Acc: 94.48%
+Batch 790/2797, Loss: 0.1495, Train Acc: 94.49%
+Batch 795/2797, Loss: 0.1495, Train Acc: 94.49%
+Batch 800/2797, Loss: 0.1494, Train Acc: 94.49%
+Batch 805/2797, Loss: 0.1493, Train Acc: 94.49%
+Batch 810/2797, Loss: 0.1494, Train Acc: 94.49%
+Batch 815/2797, Loss: 0.1494, Train Acc: 94.49%
+Batch 820/2797, Loss: 0.1494, Train Acc: 94.49%
+Batch 825/2797, Loss: 0.1495, Train Acc: 94.49%
+Batch 830/2797, Loss: 0.1496, Train Acc: 94.49%
+Batch 835/2797, Loss: 0.1495, Train Acc: 94.49%
+Batch 840/2797, Loss: 0.1493, Train Acc: 94.49%
+Batch 845/2797, Loss: 0.1493, Train Acc: 94.49%
+Batch 850/2797, Loss: 0.1494, Train Acc: 94.49%
+Batch 855/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 860/2797, Loss: 0.1496, Train Acc: 94.47%
+Batch 865/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 870/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 875/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 880/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 885/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 890/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 895/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 900/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 905/2797, Loss: 0.1493, Train Acc: 94.47%
+Batch 910/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 915/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 920/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 925/2797, Loss: 0.1493, Train Acc: 94.47%
+Batch 930/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 935/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 940/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 945/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 950/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 955/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 960/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 965/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 970/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 975/2797, Loss: 0.1493, Train Acc: 94.47%
+Batch 980/2797, Loss: 0.1492, Train Acc: 94.47%
+Batch 985/2797, Loss: 0.1492, Train Acc: 94.47%
+Batch 990/2797, Loss: 0.1492, Train Acc: 94.47%
+Batch 995/2797, Loss: 0.1493, Train Acc: 94.47%
+Batch 1000/2797, Loss: 0.1493, Train Acc: 94.47%
+Batch 1005/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1010/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1015/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1020/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1025/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1030/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 1035/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1040/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1045/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1050/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 1055/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 1060/2797, Loss: 0.1492, Train Acc: 94.47%
+Batch 1065/2797, Loss: 0.1491, Train Acc: 94.48%
+Batch 1070/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1075/2797, Loss: 0.1492, Train Acc: 94.47%
+Batch 1080/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 1085/2797, Loss: 0.1492, Train Acc: 94.47%
+Batch 1090/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1095/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1100/2797, Loss: 0.1492, Train Acc: 94.47%
+Batch 1105/2797, Loss: 0.1492, Train Acc: 94.47%
+Batch 1110/2797, Loss: 0.1492, Train Acc: 94.47%
+Batch 1115/2797, Loss: 0.1492, Train Acc: 94.47%
+Batch 1120/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 1125/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 1130/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1135/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 1140/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1145/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1150/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1155/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 1160/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1165/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 1170/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1175/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1180/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1185/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 1190/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 1195/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 1200/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 1205/2797, Loss: 0.1488, Train Acc: 94.47%
+Batch 1210/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1215/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1220/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1225/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 1230/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 1235/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 1240/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 1245/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 1250/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1255/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 1260/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 1265/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 1270/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 1275/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 1280/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 1285/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 1290/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 1295/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1300/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 1305/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 1310/2797, Loss: 0.1490, Train Acc: 94.48%
+Batch 1315/2797, Loss: 0.1490, Train Acc: 94.48%
+Batch 1320/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 1325/2797, Loss: 0.1490, Train Acc: 94.48%
+Batch 1330/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 1335/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 1340/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 1345/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1350/2797, Loss: 0.1491, Train Acc: 94.48%
+Batch 1355/2797, Loss: 0.1492, Train Acc: 94.47%
+Batch 1360/2797, Loss: 0.1492, Train Acc: 94.47%
+Batch 1365/2797, Loss: 0.1492, Train Acc: 94.47%
+Batch 1370/2797, Loss: 0.1493, Train Acc: 94.47%
+Batch 1375/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 1380/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 1385/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 1390/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 1395/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1400/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 1405/2797, Loss: 0.1493, Train Acc: 94.47%
+Batch 1410/2797, Loss: 0.1493, Train Acc: 94.47%
+Batch 1415/2797, Loss: 0.1493, Train Acc: 94.47%
+Batch 1420/2797, Loss: 0.1493, Train Acc: 94.47%
+Batch 1425/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1430/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1435/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1440/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 1445/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1450/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1455/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1460/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1465/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1470/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1475/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1480/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1485/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 1490/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 1495/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1500/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1505/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1510/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 1515/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 1520/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 1525/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 1530/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 1535/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1540/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1545/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1550/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1555/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1560/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1565/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 1570/2797, Loss: 0.1493, Train Acc: 94.47%
+Batch 1575/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1580/2797, Loss: 0.1492, Train Acc: 94.47%
+Batch 1585/2797, Loss: 0.1493, Train Acc: 94.47%
+Batch 1590/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 1595/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 1600/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1605/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 1610/2797, Loss: 0.1493, Train Acc: 94.47%
+Batch 1615/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1620/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1625/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1630/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 1635/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 1640/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 1645/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 1650/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1655/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1660/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1665/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1670/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1675/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1680/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1685/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 1690/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 1695/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 1700/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 1705/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 1710/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1715/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 1720/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 1725/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 1730/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 1735/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 1740/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 1745/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 1750/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 1755/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 1760/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 1765/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 1770/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 1775/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 1780/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 1785/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 1790/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 1795/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 1800/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 1805/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 1810/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 1815/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 1820/2797, Loss: 0.1498, Train Acc: 94.46%
+Batch 1825/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 1830/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 1835/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 1840/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 1845/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 1850/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 1855/2797, Loss: 0.1499, Train Acc: 94.45%
+Batch 1860/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 1865/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 1870/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 1875/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 1880/2797, Loss: 0.1499, Train Acc: 94.45%
+Batch 1885/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 1890/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 1895/2797, Loss: 0.1499, Train Acc: 94.45%
+Batch 1900/2797, Loss: 0.1500, Train Acc: 94.45%
+Batch 1905/2797, Loss: 0.1501, Train Acc: 94.45%
+Batch 1910/2797, Loss: 0.1501, Train Acc: 94.45%
+Batch 1915/2797, Loss: 0.1501, Train Acc: 94.44%
+Batch 1920/2797, Loss: 0.1501, Train Acc: 94.44%
+Batch 1925/2797, Loss: 0.1501, Train Acc: 94.44%
+Batch 1930/2797, Loss: 0.1501, Train Acc: 94.45%
+Batch 1935/2797, Loss: 0.1501, Train Acc: 94.44%
+Batch 1940/2797, Loss: 0.1501, Train Acc: 94.45%
+Batch 1945/2797, Loss: 0.1501, Train Acc: 94.44%
+Batch 1950/2797, Loss: 0.1501, Train Acc: 94.45%
+Batch 1955/2797, Loss: 0.1501, Train Acc: 94.45%
+Batch 1960/2797, Loss: 0.1499, Train Acc: 94.45%
+Batch 1965/2797, Loss: 0.1499, Train Acc: 94.45%
+Batch 1970/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 1975/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 1980/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 1985/2797, Loss: 0.1496, Train Acc: 94.47%
+Batch 1990/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 1995/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 2000/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 2005/2797, Loss: 0.1498, Train Acc: 94.46%
+Batch 2010/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 2015/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 2020/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 2025/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 2030/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2035/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 2040/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 2045/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2050/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 2055/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 2060/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2065/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 2070/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 2075/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 2080/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2085/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2090/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 2095/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 2100/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 2105/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 2110/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2115/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 2120/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2125/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2130/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2135/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2140/2797, Loss: 0.1498, Train Acc: 94.45%
+Batch 2145/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2150/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2155/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2160/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 2165/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 2170/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 2175/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 2180/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 2185/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 2190/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 2195/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2200/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 2205/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2210/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2215/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 2220/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2225/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2230/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2235/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2240/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2245/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2250/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2255/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 2260/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2265/2797, Loss: 0.1493, Train Acc: 94.47%
+Batch 2270/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2275/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2280/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 2285/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2290/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2295/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2300/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2305/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2310/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2315/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2320/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2325/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2330/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2335/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2340/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2345/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2350/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2355/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2360/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 2365/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2370/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2375/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2380/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2385/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 2390/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 2395/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2400/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2405/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2410/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2415/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2420/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2425/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2430/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2435/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2440/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2445/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2450/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2455/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2460/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2465/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2470/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2475/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2480/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 2485/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2490/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 2495/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 2500/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2505/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2510/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2515/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2520/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2525/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2530/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2535/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2540/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2545/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2550/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2555/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2560/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2565/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 2570/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 2575/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2580/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2585/2797, Loss: 0.1496, Train Acc: 94.45%
+Batch 2590/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2595/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2600/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2605/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2610/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2615/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2620/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2625/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2630/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2635/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2640/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2645/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2650/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2655/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2660/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2665/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2670/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2675/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2680/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2685/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2690/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2695/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 2700/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2705/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2710/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2715/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2720/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2725/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2730/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2735/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2740/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2745/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2750/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2755/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2760/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2765/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2770/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2775/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2780/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2785/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2790/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2795/2797, Loss: 0.1497, Train Acc: 94.44%
+Learning Rate: 0.000000
+Epoch 20/50, Average Loss: 0.1497, Train Accuracy: 94.45%
+Validation Batch 5/700, Validation Accuracy: 95.31%
+Validation Batch 10/700, Validation Accuracy: 94.14%
+Validation Batch 15/700, Validation Accuracy: 93.18%
+Validation Batch 20/700, Validation Accuracy: 92.58%
+Validation Batch 25/700, Validation Accuracy: 92.41%
+Validation Batch 30/700, Validation Accuracy: 92.24%
+Validation Batch 35/700, Validation Accuracy: 92.25%
+Validation Batch 40/700, Validation Accuracy: 92.27%
+Validation Batch 45/700, Validation Accuracy: 92.24%
+Validation Batch 50/700, Validation Accuracy: 92.44%
+Validation Batch 55/700, Validation Accuracy: 92.50%
+Validation Batch 60/700, Validation Accuracy: 92.37%
+Validation Batch 65/700, Validation Accuracy: 92.36%
+Validation Batch 70/700, Validation Accuracy: 92.41%
+Validation Batch 75/700, Validation Accuracy: 92.36%
+Validation Batch 80/700, Validation Accuracy: 92.25%
+Validation Batch 85/700, Validation Accuracy: 92.16%
+Validation Batch 90/700, Validation Accuracy: 92.18%
+Validation Batch 95/700, Validation Accuracy: 92.12%
+Validation Batch 100/700, Validation Accuracy: 92.12%
+Validation Batch 105/700, Validation Accuracy: 92.12%
+Validation Batch 110/700, Validation Accuracy: 92.10%
+Validation Batch 115/700, Validation Accuracy: 92.09%
+Validation Batch 120/700, Validation Accuracy: 92.10%
+Validation Batch 125/700, Validation Accuracy: 92.14%
+Validation Batch 130/700, Validation Accuracy: 92.12%
+Validation Batch 135/700, Validation Accuracy: 92.07%
+Validation Batch 140/700, Validation Accuracy: 91.99%
+Validation Batch 145/700, Validation Accuracy: 91.99%
+Validation Batch 150/700, Validation Accuracy: 92.07%
+Validation Batch 155/700, Validation Accuracy: 92.06%
+Validation Batch 160/700, Validation Accuracy: 92.03%
+Validation Batch 165/700, Validation Accuracy: 92.02%
+Validation Batch 170/700, Validation Accuracy: 92.02%
+Validation Batch 175/700, Validation Accuracy: 92.06%
+Validation Batch 180/700, Validation Accuracy: 92.07%
+Validation Batch 185/700, Validation Accuracy: 92.07%
+Validation Batch 190/700, Validation Accuracy: 92.06%
+Validation Batch 195/700, Validation Accuracy: 92.07%
+Validation Batch 200/700, Validation Accuracy: 92.07%
+Validation Batch 205/700, Validation Accuracy: 92.07%
+Validation Batch 210/700, Validation Accuracy: 92.08%
+Validation Batch 215/700, Validation Accuracy: 92.09%
+Validation Batch 220/700, Validation Accuracy: 92.05%
+Validation Batch 225/700, Validation Accuracy: 92.10%
+Validation Batch 230/700, Validation Accuracy: 92.08%
+Validation Batch 235/700, Validation Accuracy: 92.06%
+Validation Batch 240/700, Validation Accuracy: 92.07%
+Validation Batch 245/700, Validation Accuracy: 92.09%
+Validation Batch 250/700, Validation Accuracy: 92.08%
+Validation Batch 255/700, Validation Accuracy: 92.12%
+Validation Batch 260/700, Validation Accuracy: 92.14%
+Validation Batch 265/700, Validation Accuracy: 92.12%
+Validation Batch 270/700, Validation Accuracy: 92.12%
+Validation Batch 275/700, Validation Accuracy: 92.12%
+Validation Batch 280/700, Validation Accuracy: 92.11%
+Validation Batch 285/700, Validation Accuracy: 92.14%
+Validation Batch 290/700, Validation Accuracy: 92.14%
+Validation Batch 295/700, Validation Accuracy: 92.18%
+Validation Batch 300/700, Validation Accuracy: 92.18%
+Validation Batch 305/700, Validation Accuracy: 92.20%
+Validation Batch 310/700, Validation Accuracy: 92.17%
+Validation Batch 315/700, Validation Accuracy: 92.17%
+Validation Batch 320/700, Validation Accuracy: 92.16%
+Validation Batch 325/700, Validation Accuracy: 92.15%
+Validation Batch 330/700, Validation Accuracy: 92.15%
+Validation Batch 335/700, Validation Accuracy: 92.16%
+Validation Batch 340/700, Validation Accuracy: 92.18%
+Validation Batch 345/700, Validation Accuracy: 92.17%
+Validation Batch 350/700, Validation Accuracy: 92.17%
+Validation Batch 355/700, Validation Accuracy: 92.14%
+Validation Batch 360/700, Validation Accuracy: 92.15%
+Validation Batch 365/700, Validation Accuracy: 92.14%
+Validation Batch 370/700, Validation Accuracy: 92.14%
+Validation Batch 375/700, Validation Accuracy: 92.14%
+Validation Batch 380/700, Validation Accuracy: 92.13%
+Validation Batch 385/700, Validation Accuracy: 92.13%
+Validation Batch 390/700, Validation Accuracy: 92.09%
+Validation Batch 395/700, Validation Accuracy: 92.09%
+Validation Batch 400/700, Validation Accuracy: 92.08%
+Validation Batch 405/700, Validation Accuracy: 92.05%
+Validation Batch 410/700, Validation Accuracy: 92.04%
+Validation Batch 415/700, Validation Accuracy: 92.06%
+Validation Batch 420/700, Validation Accuracy: 92.07%
+Validation Batch 425/700, Validation Accuracy: 92.07%
+Validation Batch 430/700, Validation Accuracy: 92.08%
+Validation Batch 435/700, Validation Accuracy: 92.09%
+Validation Batch 440/700, Validation Accuracy: 92.08%
+Validation Batch 445/700, Validation Accuracy: 92.09%
+Validation Batch 450/700, Validation Accuracy: 92.12%
+Validation Batch 455/700, Validation Accuracy: 92.13%
+Validation Batch 460/700, Validation Accuracy: 92.14%
+Validation Batch 465/700, Validation Accuracy: 92.15%
+Validation Batch 470/700, Validation Accuracy: 92.15%
+Validation Batch 475/700, Validation Accuracy: 92.13%
+Validation Batch 480/700, Validation Accuracy: 92.16%
+Validation Batch 485/700, Validation Accuracy: 92.16%
+Validation Batch 490/700, Validation Accuracy: 92.18%
+Validation Batch 495/700, Validation Accuracy: 92.18%
+Validation Batch 500/700, Validation Accuracy: 92.18%
+Validation Batch 505/700, Validation Accuracy: 92.19%
+Validation Batch 510/700, Validation Accuracy: 92.20%
+Validation Batch 515/700, Validation Accuracy: 92.20%
+Validation Batch 520/700, Validation Accuracy: 92.21%
+Validation Batch 525/700, Validation Accuracy: 92.19%
+Validation Batch 530/700, Validation Accuracy: 92.19%
+Validation Batch 535/700, Validation Accuracy: 92.18%
+Validation Batch 540/700, Validation Accuracy: 92.17%
+Validation Batch 545/700, Validation Accuracy: 92.16%
+Validation Batch 550/700, Validation Accuracy: 92.17%
+Validation Batch 555/700, Validation Accuracy: 92.15%
+Validation Batch 560/700, Validation Accuracy: 92.13%
+Validation Batch 565/700, Validation Accuracy: 92.14%
+Validation Batch 570/700, Validation Accuracy: 92.13%
+Validation Batch 575/700, Validation Accuracy: 92.13%
+Validation Batch 580/700, Validation Accuracy: 92.14%
+Validation Batch 585/700, Validation Accuracy: 92.16%
+Validation Batch 590/700, Validation Accuracy: 92.15%
+Validation Batch 595/700, Validation Accuracy: 92.15%
+Validation Batch 600/700, Validation Accuracy: 92.15%
+Validation Batch 605/700, Validation Accuracy: 92.15%
+Validation Batch 610/700, Validation Accuracy: 92.16%
+Validation Batch 615/700, Validation Accuracy: 92.14%
+Validation Batch 620/700, Validation Accuracy: 92.12%
+Validation Batch 625/700, Validation Accuracy: 92.12%
+Validation Batch 630/700, Validation Accuracy: 92.12%
+Validation Batch 635/700, Validation Accuracy: 92.11%
+Validation Batch 640/700, Validation Accuracy: 92.11%
+Validation Batch 645/700, Validation Accuracy: 92.12%
+Validation Batch 650/700, Validation Accuracy: 92.13%
+Validation Batch 655/700, Validation Accuracy: 92.14%
+Validation Batch 660/700, Validation Accuracy: 92.14%
+Validation Batch 665/700, Validation Accuracy: 92.14%
+Validation Batch 670/700, Validation Accuracy: 92.14%
+Validation Batch 675/700, Validation Accuracy: 92.15%
+Validation Batch 680/700, Validation Accuracy: 92.15%
+Validation Batch 685/700, Validation Accuracy: 92.15%
+Validation Batch 690/700, Validation Accuracy: 92.14%
+Validation Batch 695/700, Validation Accuracy: 92.13%
+Validation Batch 700/700, Validation Accuracy: 92.14%
+Validation Accuracy for Epoch 20: 92.14%
+
+--- Epoch 21/50 ---
+Batch 5/2797, Loss: 0.1846, Train Acc: 92.34%
+Batch 10/2797, Loss: 0.1663, Train Acc: 93.28%
+Batch 15/2797, Loss: 0.1555, Train Acc: 93.85%
+Batch 20/2797, Loss: 0.1597, Train Acc: 93.95%
+Batch 25/2797, Loss: 0.1589, Train Acc: 94.09%
+Batch 30/2797, Loss: 0.1567, Train Acc: 94.14%
+Batch 35/2797, Loss: 0.1559, Train Acc: 94.11%
+Batch 40/2797, Loss: 0.1589, Train Acc: 93.96%
+Batch 45/2797, Loss: 0.1586, Train Acc: 93.98%
+Batch 50/2797, Loss: 0.1568, Train Acc: 93.95%
+Batch 55/2797, Loss: 0.1554, Train Acc: 94.08%
+Batch 60/2797, Loss: 0.1559, Train Acc: 94.15%
+Batch 65/2797, Loss: 0.1537, Train Acc: 94.19%
+Batch 70/2797, Loss: 0.1564, Train Acc: 94.11%
+Batch 75/2797, Loss: 0.1574, Train Acc: 94.10%
+Batch 80/2797, Loss: 0.1565, Train Acc: 94.10%
+Batch 85/2797, Loss: 0.1567, Train Acc: 94.15%
+Batch 90/2797, Loss: 0.1551, Train Acc: 94.25%
+Batch 95/2797, Loss: 0.1548, Train Acc: 94.25%
+Batch 100/2797, Loss: 0.1531, Train Acc: 94.34%
+Batch 105/2797, Loss: 0.1535, Train Acc: 94.29%
+Batch 110/2797, Loss: 0.1539, Train Acc: 94.32%
+Batch 115/2797, Loss: 0.1549, Train Acc: 94.23%
+Batch 120/2797, Loss: 0.1557, Train Acc: 94.21%
+Batch 125/2797, Loss: 0.1547, Train Acc: 94.26%
+Batch 130/2797, Loss: 0.1556, Train Acc: 94.24%
+Batch 135/2797, Loss: 0.1553, Train Acc: 94.24%
+Batch 140/2797, Loss: 0.1550, Train Acc: 94.21%
+Batch 145/2797, Loss: 0.1545, Train Acc: 94.24%
+Batch 150/2797, Loss: 0.1536, Train Acc: 94.28%
+Batch 155/2797, Loss: 0.1535, Train Acc: 94.27%
+Batch 160/2797, Loss: 0.1526, Train Acc: 94.31%
+Batch 165/2797, Loss: 0.1524, Train Acc: 94.32%
+Batch 170/2797, Loss: 0.1529, Train Acc: 94.29%
+Batch 175/2797, Loss: 0.1531, Train Acc: 94.29%
+Batch 180/2797, Loss: 0.1531, Train Acc: 94.30%
+Batch 185/2797, Loss: 0.1536, Train Acc: 94.27%
+Batch 190/2797, Loss: 0.1529, Train Acc: 94.31%
+Batch 195/2797, Loss: 0.1520, Train Acc: 94.35%
+Batch 200/2797, Loss: 0.1520, Train Acc: 94.35%
+Batch 205/2797, Loss: 0.1516, Train Acc: 94.36%
+Batch 210/2797, Loss: 0.1512, Train Acc: 94.37%
+Batch 215/2797, Loss: 0.1511, Train Acc: 94.37%
+Batch 220/2797, Loss: 0.1511, Train Acc: 94.37%
+Batch 225/2797, Loss: 0.1512, Train Acc: 94.36%
+Batch 230/2797, Loss: 0.1512, Train Acc: 94.34%
+Batch 235/2797, Loss: 0.1513, Train Acc: 94.35%
+Batch 240/2797, Loss: 0.1511, Train Acc: 94.36%
+Batch 245/2797, Loss: 0.1514, Train Acc: 94.35%
+Batch 250/2797, Loss: 0.1515, Train Acc: 94.35%
+Batch 255/2797, Loss: 0.1521, Train Acc: 94.34%
+Batch 260/2797, Loss: 0.1522, Train Acc: 94.34%
+Batch 265/2797, Loss: 0.1522, Train Acc: 94.35%
+Batch 270/2797, Loss: 0.1523, Train Acc: 94.35%
+Batch 275/2797, Loss: 0.1527, Train Acc: 94.33%
+Batch 280/2797, Loss: 0.1524, Train Acc: 94.33%
+Batch 285/2797, Loss: 0.1522, Train Acc: 94.32%
+Batch 290/2797, Loss: 0.1518, Train Acc: 94.33%
+Batch 295/2797, Loss: 0.1515, Train Acc: 94.33%
+Batch 300/2797, Loss: 0.1517, Train Acc: 94.32%
+Batch 305/2797, Loss: 0.1521, Train Acc: 94.31%
+Batch 310/2797, Loss: 0.1523, Train Acc: 94.29%
+Batch 315/2797, Loss: 0.1519, Train Acc: 94.32%
+Batch 320/2797, Loss: 0.1520, Train Acc: 94.32%
+Batch 325/2797, Loss: 0.1518, Train Acc: 94.32%
+Batch 330/2797, Loss: 0.1513, Train Acc: 94.34%
+Batch 335/2797, Loss: 0.1511, Train Acc: 94.34%
+Batch 340/2797, Loss: 0.1509, Train Acc: 94.34%
+Batch 345/2797, Loss: 0.1507, Train Acc: 94.34%
+Batch 350/2797, Loss: 0.1507, Train Acc: 94.34%
+Batch 355/2797, Loss: 0.1508, Train Acc: 94.34%
+Batch 360/2797, Loss: 0.1509, Train Acc: 94.35%
+Batch 365/2797, Loss: 0.1507, Train Acc: 94.36%
+Batch 370/2797, Loss: 0.1505, Train Acc: 94.37%
+Batch 375/2797, Loss: 0.1503, Train Acc: 94.38%
+Batch 380/2797, Loss: 0.1499, Train Acc: 94.40%
+Batch 385/2797, Loss: 0.1504, Train Acc: 94.38%
+Batch 390/2797, Loss: 0.1506, Train Acc: 94.38%
+Batch 395/2797, Loss: 0.1504, Train Acc: 94.39%
+Batch 400/2797, Loss: 0.1501, Train Acc: 94.40%
+Batch 405/2797, Loss: 0.1499, Train Acc: 94.41%
+Batch 410/2797, Loss: 0.1499, Train Acc: 94.40%
+Batch 415/2797, Loss: 0.1500, Train Acc: 94.41%
+Batch 420/2797, Loss: 0.1501, Train Acc: 94.40%
+Batch 425/2797, Loss: 0.1503, Train Acc: 94.40%
+Batch 430/2797, Loss: 0.1506, Train Acc: 94.38%
+Batch 435/2797, Loss: 0.1507, Train Acc: 94.38%
+Batch 440/2797, Loss: 0.1506, Train Acc: 94.37%
+Batch 445/2797, Loss: 0.1507, Train Acc: 94.37%
+Batch 450/2797, Loss: 0.1509, Train Acc: 94.35%
+Batch 455/2797, Loss: 0.1512, Train Acc: 94.35%
+Batch 460/2797, Loss: 0.1510, Train Acc: 94.36%
+Batch 465/2797, Loss: 0.1512, Train Acc: 94.36%
+Batch 470/2797, Loss: 0.1511, Train Acc: 94.36%
+Batch 475/2797, Loss: 0.1511, Train Acc: 94.37%
+Batch 480/2797, Loss: 0.1510, Train Acc: 94.38%
+Batch 485/2797, Loss: 0.1511, Train Acc: 94.38%
+Batch 490/2797, Loss: 0.1511, Train Acc: 94.38%
+Batch 495/2797, Loss: 0.1511, Train Acc: 94.38%
+Batch 500/2797, Loss: 0.1513, Train Acc: 94.37%
+Batch 505/2797, Loss: 0.1511, Train Acc: 94.39%
+Batch 510/2797, Loss: 0.1512, Train Acc: 94.39%
+Batch 515/2797, Loss: 0.1511, Train Acc: 94.39%
+Batch 520/2797, Loss: 0.1510, Train Acc: 94.40%
+Batch 525/2797, Loss: 0.1512, Train Acc: 94.41%
+Batch 530/2797, Loss: 0.1512, Train Acc: 94.41%
+Batch 535/2797, Loss: 0.1511, Train Acc: 94.41%
+Batch 540/2797, Loss: 0.1513, Train Acc: 94.42%
+Batch 545/2797, Loss: 0.1514, Train Acc: 94.41%
+Batch 550/2797, Loss: 0.1515, Train Acc: 94.40%
+Batch 555/2797, Loss: 0.1511, Train Acc: 94.42%
+Batch 560/2797, Loss: 0.1510, Train Acc: 94.43%
+Batch 565/2797, Loss: 0.1510, Train Acc: 94.43%
+Batch 570/2797, Loss: 0.1508, Train Acc: 94.44%
+Batch 575/2797, Loss: 0.1509, Train Acc: 94.43%
+Batch 580/2797, Loss: 0.1511, Train Acc: 94.42%
+Batch 585/2797, Loss: 0.1509, Train Acc: 94.43%
+Batch 590/2797, Loss: 0.1510, Train Acc: 94.43%
+Batch 595/2797, Loss: 0.1509, Train Acc: 94.43%
+Batch 600/2797, Loss: 0.1511, Train Acc: 94.43%
+Batch 605/2797, Loss: 0.1511, Train Acc: 94.42%
+Batch 610/2797, Loss: 0.1515, Train Acc: 94.40%
+Batch 615/2797, Loss: 0.1516, Train Acc: 94.40%
+Batch 620/2797, Loss: 0.1514, Train Acc: 94.40%
+Batch 625/2797, Loss: 0.1515, Train Acc: 94.40%
+Batch 630/2797, Loss: 0.1514, Train Acc: 94.40%
+Batch 635/2797, Loss: 0.1514, Train Acc: 94.40%
+Batch 640/2797, Loss: 0.1512, Train Acc: 94.41%
+Batch 645/2797, Loss: 0.1512, Train Acc: 94.41%
+Batch 650/2797, Loss: 0.1513, Train Acc: 94.41%
+Batch 655/2797, Loss: 0.1514, Train Acc: 94.41%
+Batch 660/2797, Loss: 0.1515, Train Acc: 94.40%
+Batch 665/2797, Loss: 0.1515, Train Acc: 94.40%
+Batch 670/2797, Loss: 0.1515, Train Acc: 94.41%
+Batch 675/2797, Loss: 0.1513, Train Acc: 94.40%
+Batch 680/2797, Loss: 0.1516, Train Acc: 94.39%
+Batch 685/2797, Loss: 0.1515, Train Acc: 94.39%
+Batch 690/2797, Loss: 0.1516, Train Acc: 94.39%
+Batch 695/2797, Loss: 0.1517, Train Acc: 94.39%
+Batch 700/2797, Loss: 0.1518, Train Acc: 94.38%
+Batch 705/2797, Loss: 0.1518, Train Acc: 94.39%
+Batch 710/2797, Loss: 0.1516, Train Acc: 94.39%
+Batch 715/2797, Loss: 0.1516, Train Acc: 94.39%
+Batch 720/2797, Loss: 0.1515, Train Acc: 94.40%
+Batch 725/2797, Loss: 0.1514, Train Acc: 94.40%
+Batch 730/2797, Loss: 0.1511, Train Acc: 94.41%
+Batch 735/2797, Loss: 0.1511, Train Acc: 94.41%
+Batch 740/2797, Loss: 0.1510, Train Acc: 94.40%
+Batch 745/2797, Loss: 0.1509, Train Acc: 94.41%
+Batch 750/2797, Loss: 0.1510, Train Acc: 94.40%
+Batch 755/2797, Loss: 0.1509, Train Acc: 94.40%
+Batch 760/2797, Loss: 0.1508, Train Acc: 94.40%
+Batch 765/2797, Loss: 0.1509, Train Acc: 94.40%
+Batch 770/2797, Loss: 0.1508, Train Acc: 94.40%
+Batch 775/2797, Loss: 0.1506, Train Acc: 94.41%
+Batch 780/2797, Loss: 0.1506, Train Acc: 94.41%
+Batch 785/2797, Loss: 0.1507, Train Acc: 94.41%
+Batch 790/2797, Loss: 0.1508, Train Acc: 94.40%
+Batch 795/2797, Loss: 0.1508, Train Acc: 94.40%
+Batch 800/2797, Loss: 0.1506, Train Acc: 94.41%
+Batch 805/2797, Loss: 0.1507, Train Acc: 94.40%
+Batch 810/2797, Loss: 0.1507, Train Acc: 94.41%
+Batch 815/2797, Loss: 0.1508, Train Acc: 94.40%
+Batch 820/2797, Loss: 0.1507, Train Acc: 94.41%
+Batch 825/2797, Loss: 0.1506, Train Acc: 94.41%
+Batch 830/2797, Loss: 0.1506, Train Acc: 94.41%
+Batch 835/2797, Loss: 0.1506, Train Acc: 94.41%
+Batch 840/2797, Loss: 0.1505, Train Acc: 94.41%
+Batch 845/2797, Loss: 0.1504, Train Acc: 94.42%
+Batch 850/2797, Loss: 0.1504, Train Acc: 94.43%
+Batch 855/2797, Loss: 0.1502, Train Acc: 94.43%
+Batch 860/2797, Loss: 0.1502, Train Acc: 94.43%
+Batch 865/2797, Loss: 0.1505, Train Acc: 94.42%
+Batch 870/2797, Loss: 0.1504, Train Acc: 94.42%
+Batch 875/2797, Loss: 0.1504, Train Acc: 94.41%
+Batch 880/2797, Loss: 0.1502, Train Acc: 94.42%
+Batch 885/2797, Loss: 0.1503, Train Acc: 94.42%
+Batch 890/2797, Loss: 0.1502, Train Acc: 94.42%
+Batch 895/2797, Loss: 0.1502, Train Acc: 94.43%
+Batch 900/2797, Loss: 0.1503, Train Acc: 94.42%
+Batch 905/2797, Loss: 0.1503, Train Acc: 94.42%
+Batch 910/2797, Loss: 0.1503, Train Acc: 94.42%
+Batch 915/2797, Loss: 0.1504, Train Acc: 94.41%
+Batch 920/2797, Loss: 0.1504, Train Acc: 94.41%
+Batch 925/2797, Loss: 0.1504, Train Acc: 94.41%
+Batch 930/2797, Loss: 0.1503, Train Acc: 94.42%
+Batch 935/2797, Loss: 0.1502, Train Acc: 94.43%
+Batch 940/2797, Loss: 0.1501, Train Acc: 94.43%
+Batch 945/2797, Loss: 0.1502, Train Acc: 94.43%
+Batch 950/2797, Loss: 0.1503, Train Acc: 94.43%
+Batch 955/2797, Loss: 0.1505, Train Acc: 94.42%
+Batch 960/2797, Loss: 0.1505, Train Acc: 94.43%
+Batch 965/2797, Loss: 0.1505, Train Acc: 94.42%
+Batch 970/2797, Loss: 0.1504, Train Acc: 94.42%
+Batch 975/2797, Loss: 0.1505, Train Acc: 94.42%
+Batch 980/2797, Loss: 0.1505, Train Acc: 94.42%
+Batch 985/2797, Loss: 0.1506, Train Acc: 94.42%
+Batch 990/2797, Loss: 0.1506, Train Acc: 94.42%
+Batch 995/2797, Loss: 0.1506, Train Acc: 94.41%
+Batch 1000/2797, Loss: 0.1506, Train Acc: 94.41%
+Batch 1005/2797, Loss: 0.1506, Train Acc: 94.42%
+Batch 1010/2797, Loss: 0.1507, Train Acc: 94.41%
+Batch 1015/2797, Loss: 0.1505, Train Acc: 94.42%
+Batch 1020/2797, Loss: 0.1505, Train Acc: 94.42%
+Batch 1025/2797, Loss: 0.1504, Train Acc: 94.42%
+Batch 1030/2797, Loss: 0.1504, Train Acc: 94.43%
+Batch 1035/2797, Loss: 0.1503, Train Acc: 94.43%
+Batch 1040/2797, Loss: 0.1502, Train Acc: 94.44%
+Batch 1045/2797, Loss: 0.1501, Train Acc: 94.44%
+Batch 1050/2797, Loss: 0.1500, Train Acc: 94.45%
+Batch 1055/2797, Loss: 0.1501, Train Acc: 94.44%
+Batch 1060/2797, Loss: 0.1502, Train Acc: 94.44%
+Batch 1065/2797, Loss: 0.1502, Train Acc: 94.45%
+Batch 1070/2797, Loss: 0.1501, Train Acc: 94.45%
+Batch 1075/2797, Loss: 0.1502, Train Acc: 94.44%
+Batch 1080/2797, Loss: 0.1501, Train Acc: 94.45%
+Batch 1085/2797, Loss: 0.1501, Train Acc: 94.44%
+Batch 1090/2797, Loss: 0.1502, Train Acc: 94.44%
+Batch 1095/2797, Loss: 0.1502, Train Acc: 94.44%
+Batch 1100/2797, Loss: 0.1502, Train Acc: 94.44%
+Batch 1105/2797, Loss: 0.1502, Train Acc: 94.44%
+Batch 1110/2797, Loss: 0.1504, Train Acc: 94.44%
+Batch 1115/2797, Loss: 0.1502, Train Acc: 94.45%
+Batch 1120/2797, Loss: 0.1502, Train Acc: 94.44%
+Batch 1125/2797, Loss: 0.1503, Train Acc: 94.44%
+Batch 1130/2797, Loss: 0.1502, Train Acc: 94.45%
+Batch 1135/2797, Loss: 0.1501, Train Acc: 94.45%
+Batch 1140/2797, Loss: 0.1502, Train Acc: 94.45%
+Batch 1145/2797, Loss: 0.1502, Train Acc: 94.45%
+Batch 1150/2797, Loss: 0.1501, Train Acc: 94.45%
+Batch 1155/2797, Loss: 0.1502, Train Acc: 94.45%
+Batch 1160/2797, Loss: 0.1501, Train Acc: 94.45%
+Batch 1165/2797, Loss: 0.1502, Train Acc: 94.45%
+Batch 1170/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1175/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1180/2797, Loss: 0.1501, Train Acc: 94.46%
+Batch 1185/2797, Loss: 0.1501, Train Acc: 94.45%
+Batch 1190/2797, Loss: 0.1502, Train Acc: 94.45%
+Batch 1195/2797, Loss: 0.1501, Train Acc: 94.45%
+Batch 1200/2797, Loss: 0.1500, Train Acc: 94.45%
+Batch 1205/2797, Loss: 0.1502, Train Acc: 94.45%
+Batch 1210/2797, Loss: 0.1502, Train Acc: 94.45%
+Batch 1215/2797, Loss: 0.1501, Train Acc: 94.46%
+Batch 1220/2797, Loss: 0.1502, Train Acc: 94.45%
+Batch 1225/2797, Loss: 0.1501, Train Acc: 94.45%
+Batch 1230/2797, Loss: 0.1500, Train Acc: 94.45%
+Batch 1235/2797, Loss: 0.1501, Train Acc: 94.45%
+Batch 1240/2797, Loss: 0.1500, Train Acc: 94.45%
+Batch 1245/2797, Loss: 0.1499, Train Acc: 94.45%
+Batch 1250/2797, Loss: 0.1498, Train Acc: 94.46%
+Batch 1255/2797, Loss: 0.1499, Train Acc: 94.46%
+Batch 1260/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1265/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1270/2797, Loss: 0.1499, Train Acc: 94.46%
+Batch 1275/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1280/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1285/2797, Loss: 0.1499, Train Acc: 94.46%
+Batch 1290/2797, Loss: 0.1499, Train Acc: 94.46%
+Batch 1295/2797, Loss: 0.1499, Train Acc: 94.46%
+Batch 1300/2797, Loss: 0.1499, Train Acc: 94.46%
+Batch 1305/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1310/2797, Loss: 0.1501, Train Acc: 94.46%
+Batch 1315/2797, Loss: 0.1502, Train Acc: 94.45%
+Batch 1320/2797, Loss: 0.1502, Train Acc: 94.45%
+Batch 1325/2797, Loss: 0.1501, Train Acc: 94.45%
+Batch 1330/2797, Loss: 0.1502, Train Acc: 94.45%
+Batch 1335/2797, Loss: 0.1503, Train Acc: 94.45%
+Batch 1340/2797, Loss: 0.1503, Train Acc: 94.45%
+Batch 1345/2797, Loss: 0.1502, Train Acc: 94.45%
+Batch 1350/2797, Loss: 0.1502, Train Acc: 94.45%
+Batch 1355/2797, Loss: 0.1501, Train Acc: 94.46%
+Batch 1360/2797, Loss: 0.1501, Train Acc: 94.46%
+Batch 1365/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1370/2797, Loss: 0.1500, Train Acc: 94.47%
+Batch 1375/2797, Loss: 0.1501, Train Acc: 94.46%
+Batch 1380/2797, Loss: 0.1500, Train Acc: 94.47%
+Batch 1385/2797, Loss: 0.1500, Train Acc: 94.47%
+Batch 1390/2797, Loss: 0.1500, Train Acc: 94.47%
+Batch 1395/2797, Loss: 0.1500, Train Acc: 94.48%
+Batch 1400/2797, Loss: 0.1501, Train Acc: 94.47%
+Batch 1405/2797, Loss: 0.1500, Train Acc: 94.47%
+Batch 1410/2797, Loss: 0.1501, Train Acc: 94.47%
+Batch 1415/2797, Loss: 0.1501, Train Acc: 94.47%
+Batch 1420/2797, Loss: 0.1501, Train Acc: 94.47%
+Batch 1425/2797, Loss: 0.1501, Train Acc: 94.47%
+Batch 1430/2797, Loss: 0.1501, Train Acc: 94.47%
+Batch 1435/2797, Loss: 0.1501, Train Acc: 94.47%
+Batch 1440/2797, Loss: 0.1500, Train Acc: 94.47%
+Batch 1445/2797, Loss: 0.1499, Train Acc: 94.47%
+Batch 1450/2797, Loss: 0.1500, Train Acc: 94.47%
+Batch 1455/2797, Loss: 0.1500, Train Acc: 94.47%
+Batch 1460/2797, Loss: 0.1500, Train Acc: 94.47%
+Batch 1465/2797, Loss: 0.1501, Train Acc: 94.46%
+Batch 1470/2797, Loss: 0.1500, Train Acc: 94.47%
+Batch 1475/2797, Loss: 0.1501, Train Acc: 94.47%
+Batch 1480/2797, Loss: 0.1501, Train Acc: 94.46%
+Batch 1485/2797, Loss: 0.1500, Train Acc: 94.47%
+Batch 1490/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1495/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1500/2797, Loss: 0.1500, Train Acc: 94.47%
+Batch 1505/2797, Loss: 0.1500, Train Acc: 94.47%
+Batch 1510/2797, Loss: 0.1499, Train Acc: 94.47%
+Batch 1515/2797, Loss: 0.1499, Train Acc: 94.47%
+Batch 1520/2797, Loss: 0.1499, Train Acc: 94.47%
+Batch 1525/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1530/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1535/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1540/2797, Loss: 0.1501, Train Acc: 94.46%
+Batch 1545/2797, Loss: 0.1501, Train Acc: 94.46%
+Batch 1550/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1555/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1560/2797, Loss: 0.1499, Train Acc: 94.46%
+Batch 1565/2797, Loss: 0.1499, Train Acc: 94.46%
+Batch 1570/2797, Loss: 0.1499, Train Acc: 94.46%
+Batch 1575/2797, Loss: 0.1499, Train Acc: 94.46%
+Batch 1580/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1585/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1590/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 1595/2797, Loss: 0.1499, Train Acc: 94.46%
+Batch 1600/2797, Loss: 0.1498, Train Acc: 94.47%
+Batch 1605/2797, Loss: 0.1497, Train Acc: 94.47%
+Batch 1610/2797, Loss: 0.1497, Train Acc: 94.47%
+Batch 1615/2797, Loss: 0.1497, Train Acc: 94.47%
+Batch 1620/2797, Loss: 0.1496, Train Acc: 94.47%
+Batch 1625/2797, Loss: 0.1497, Train Acc: 94.47%
+Batch 1630/2797, Loss: 0.1497, Train Acc: 94.47%
+Batch 1635/2797, Loss: 0.1498, Train Acc: 94.47%
+Batch 1640/2797, Loss: 0.1497, Train Acc: 94.47%
+Batch 1645/2797, Loss: 0.1498, Train Acc: 94.47%
+Batch 1650/2797, Loss: 0.1498, Train Acc: 94.47%
+Batch 1655/2797, Loss: 0.1497, Train Acc: 94.47%
+Batch 1660/2797, Loss: 0.1497, Train Acc: 94.47%
+Batch 1665/2797, Loss: 0.1496, Train Acc: 94.47%
+Batch 1670/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 1675/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 1680/2797, Loss: 0.1496, Train Acc: 94.47%
+Batch 1685/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 1690/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 1695/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 1700/2797, Loss: 0.1495, Train Acc: 94.48%
+Batch 1705/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 1710/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 1715/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 1720/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 1725/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 1730/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 1735/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 1740/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 1745/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 1750/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 1755/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 1760/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 1765/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 1770/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 1775/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 1780/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 1785/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 1790/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 1795/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 1800/2797, Loss: 0.1495, Train Acc: 94.48%
+Batch 1805/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 1810/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 1815/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1820/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1825/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1830/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1835/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1840/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 1845/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 1850/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 1855/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 1860/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 1865/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1870/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1875/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1880/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1885/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1890/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1895/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1900/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1905/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1910/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1915/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1920/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 1925/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 1930/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 1935/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 1940/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 1945/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 1950/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 1955/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1960/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1965/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 1970/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 1975/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 1980/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 1985/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 1990/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 1995/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2000/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2005/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2010/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2015/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2020/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2025/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2030/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2035/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 2040/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 2045/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 2050/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 2055/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 2060/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 2065/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 2070/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 2075/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2080/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2085/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2090/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2095/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2100/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2105/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2110/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2115/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2120/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2125/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2130/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 2135/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 2140/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2145/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 2150/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 2155/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2160/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2165/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2170/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2175/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2180/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2185/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2190/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2195/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2200/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2205/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2210/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2215/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2220/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2225/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2230/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2235/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2240/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2245/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2250/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2255/2797, Loss: 0.1491, Train Acc: 94.48%
+Batch 2260/2797, Loss: 0.1491, Train Acc: 94.48%
+Batch 2265/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2270/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2275/2797, Loss: 0.1492, Train Acc: 94.47%
+Batch 2280/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2285/2797, Loss: 0.1491, Train Acc: 94.48%
+Batch 2290/2797, Loss: 0.1491, Train Acc: 94.48%
+Batch 2295/2797, Loss: 0.1491, Train Acc: 94.48%
+Batch 2300/2797, Loss: 0.1491, Train Acc: 94.48%
+Batch 2305/2797, Loss: 0.1490, Train Acc: 94.48%
+Batch 2310/2797, Loss: 0.1490, Train Acc: 94.49%
+Batch 2315/2797, Loss: 0.1491, Train Acc: 94.48%
+Batch 2320/2797, Loss: 0.1490, Train Acc: 94.49%
+Batch 2325/2797, Loss: 0.1490, Train Acc: 94.49%
+Batch 2330/2797, Loss: 0.1490, Train Acc: 94.48%
+Batch 2335/2797, Loss: 0.1490, Train Acc: 94.48%
+Batch 2340/2797, Loss: 0.1490, Train Acc: 94.48%
+Batch 2345/2797, Loss: 0.1491, Train Acc: 94.48%
+Batch 2350/2797, Loss: 0.1490, Train Acc: 94.49%
+Batch 2355/2797, Loss: 0.1490, Train Acc: 94.49%
+Batch 2360/2797, Loss: 0.1491, Train Acc: 94.48%
+Batch 2365/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2370/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2375/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2380/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2385/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2390/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2395/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2400/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2405/2797, Loss: 0.1491, Train Acc: 94.48%
+Batch 2410/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 2415/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 2420/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 2425/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 2430/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 2435/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 2440/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 2445/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2450/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 2455/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2460/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2465/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2470/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2475/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2480/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2485/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2490/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2495/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2500/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2505/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2510/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2515/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2520/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 2525/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 2530/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 2535/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 2540/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 2545/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 2550/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 2555/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 2560/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 2565/2797, Loss: 0.1491, Train Acc: 94.50%
+Batch 2570/2797, Loss: 0.1491, Train Acc: 94.50%
+Batch 2575/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 2580/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 2585/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 2590/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 2595/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 2600/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 2605/2797, Loss: 0.1490, Train Acc: 94.49%
+Batch 2610/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 2615/2797, Loss: 0.1491, Train Acc: 94.50%
+Batch 2620/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 2625/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 2630/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 2635/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 2640/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 2645/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 2650/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 2655/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2660/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2665/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2670/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2675/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2680/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2685/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2690/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 2695/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2700/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2705/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2710/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2715/2797, Loss: 0.1495, Train Acc: 94.48%
+Batch 2720/2797, Loss: 0.1495, Train Acc: 94.48%
+Batch 2725/2797, Loss: 0.1495, Train Acc: 94.48%
+Batch 2730/2797, Loss: 0.1495, Train Acc: 94.48%
+Batch 2735/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2740/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2745/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2750/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 2755/2797, Loss: 0.1494, Train Acc: 94.49%
+Batch 2760/2797, Loss: 0.1494, Train Acc: 94.49%
+Batch 2765/2797, Loss: 0.1494, Train Acc: 94.49%
+Batch 2770/2797, Loss: 0.1494, Train Acc: 94.49%
+Batch 2775/2797, Loss: 0.1494, Train Acc: 94.49%
+Batch 2780/2797, Loss: 0.1494, Train Acc: 94.49%
+Batch 2785/2797, Loss: 0.1495, Train Acc: 94.48%
+Batch 2790/2797, Loss: 0.1494, Train Acc: 94.49%
+Batch 2795/2797, Loss: 0.1494, Train Acc: 94.49%
+Learning Rate: 0.000000
+Epoch 21/50, Average Loss: 0.1494, Train Accuracy: 94.49%
+Validation Batch 5/700, Validation Accuracy: 94.69%
+Validation Batch 10/700, Validation Accuracy: 93.83%
+Validation Batch 15/700, Validation Accuracy: 93.18%
+Validation Batch 20/700, Validation Accuracy: 92.62%
+Validation Batch 25/700, Validation Accuracy: 92.41%
+Validation Batch 30/700, Validation Accuracy: 92.34%
+Validation Batch 35/700, Validation Accuracy: 92.34%
+Validation Batch 40/700, Validation Accuracy: 92.34%
+Validation Batch 45/700, Validation Accuracy: 92.34%
+Validation Batch 50/700, Validation Accuracy: 92.55%
+Validation Batch 55/700, Validation Accuracy: 92.61%
+Validation Batch 60/700, Validation Accuracy: 92.45%
+Validation Batch 65/700, Validation Accuracy: 92.44%
+Validation Batch 70/700, Validation Accuracy: 92.44%
+Validation Batch 75/700, Validation Accuracy: 92.41%
+Validation Batch 80/700, Validation Accuracy: 92.27%
+Validation Batch 85/700, Validation Accuracy: 92.21%
+Validation Batch 90/700, Validation Accuracy: 92.20%
+Validation Batch 95/700, Validation Accuracy: 92.16%
+Validation Batch 100/700, Validation Accuracy: 92.13%
+Validation Batch 105/700, Validation Accuracy: 92.11%
+Validation Batch 110/700, Validation Accuracy: 92.07%
+Validation Batch 115/700, Validation Accuracy: 92.08%
+Validation Batch 120/700, Validation Accuracy: 92.09%
+Validation Batch 125/700, Validation Accuracy: 92.08%
+Validation Batch 130/700, Validation Accuracy: 92.05%
+Validation Batch 135/700, Validation Accuracy: 92.00%
+Validation Batch 140/700, Validation Accuracy: 91.96%
+Validation Batch 145/700, Validation Accuracy: 91.98%
+Validation Batch 150/700, Validation Accuracy: 92.05%
+Validation Batch 155/700, Validation Accuracy: 92.08%
+Validation Batch 160/700, Validation Accuracy: 92.07%
+Validation Batch 165/700, Validation Accuracy: 92.08%
+Validation Batch 170/700, Validation Accuracy: 92.10%
+Validation Batch 175/700, Validation Accuracy: 92.12%
+Validation Batch 180/700, Validation Accuracy: 92.14%
+Validation Batch 185/700, Validation Accuracy: 92.15%
+Validation Batch 190/700, Validation Accuracy: 92.13%
+Validation Batch 195/700, Validation Accuracy: 92.14%
+Validation Batch 200/700, Validation Accuracy: 92.14%
+Validation Batch 205/700, Validation Accuracy: 92.14%
+Validation Batch 210/700, Validation Accuracy: 92.15%
+Validation Batch 215/700, Validation Accuracy: 92.16%
+Validation Batch 220/700, Validation Accuracy: 92.11%
+Validation Batch 225/700, Validation Accuracy: 92.17%
+Validation Batch 230/700, Validation Accuracy: 92.13%
+Validation Batch 235/700, Validation Accuracy: 92.12%
+Validation Batch 240/700, Validation Accuracy: 92.12%
+Validation Batch 245/700, Validation Accuracy: 92.16%
+Validation Batch 250/700, Validation Accuracy: 92.14%
+Validation Batch 255/700, Validation Accuracy: 92.18%
+Validation Batch 260/700, Validation Accuracy: 92.19%
+Validation Batch 265/700, Validation Accuracy: 92.16%
+Validation Batch 270/700, Validation Accuracy: 92.17%
+Validation Batch 275/700, Validation Accuracy: 92.16%
+Validation Batch 280/700, Validation Accuracy: 92.16%
+Validation Batch 285/700, Validation Accuracy: 92.18%
+Validation Batch 290/700, Validation Accuracy: 92.20%
+Validation Batch 295/700, Validation Accuracy: 92.23%
+Validation Batch 300/700, Validation Accuracy: 92.25%
+Validation Batch 305/700, Validation Accuracy: 92.26%
+Validation Batch 310/700, Validation Accuracy: 92.23%
+Validation Batch 315/700, Validation Accuracy: 92.23%
+Validation Batch 320/700, Validation Accuracy: 92.21%
+Validation Batch 325/700, Validation Accuracy: 92.21%
+Validation Batch 330/700, Validation Accuracy: 92.20%
+Validation Batch 335/700, Validation Accuracy: 92.21%
+Validation Batch 340/700, Validation Accuracy: 92.22%
+Validation Batch 345/700, Validation Accuracy: 92.21%
+Validation Batch 350/700, Validation Accuracy: 92.21%
+Validation Batch 355/700, Validation Accuracy: 92.19%
+Validation Batch 360/700, Validation Accuracy: 92.20%
+Validation Batch 365/700, Validation Accuracy: 92.19%
+Validation Batch 370/700, Validation Accuracy: 92.19%
+Validation Batch 375/700, Validation Accuracy: 92.19%
+Validation Batch 380/700, Validation Accuracy: 92.19%
+Validation Batch 385/700, Validation Accuracy: 92.20%
+Validation Batch 390/700, Validation Accuracy: 92.16%
+Validation Batch 395/700, Validation Accuracy: 92.16%
+Validation Batch 400/700, Validation Accuracy: 92.16%
+Validation Batch 405/700, Validation Accuracy: 92.13%
+Validation Batch 410/700, Validation Accuracy: 92.12%
+Validation Batch 415/700, Validation Accuracy: 92.13%
+Validation Batch 420/700, Validation Accuracy: 92.14%
+Validation Batch 425/700, Validation Accuracy: 92.14%
+Validation Batch 430/700, Validation Accuracy: 92.15%
+Validation Batch 435/700, Validation Accuracy: 92.16%
+Validation Batch 440/700, Validation Accuracy: 92.14%
+Validation Batch 445/700, Validation Accuracy: 92.15%
+Validation Batch 450/700, Validation Accuracy: 92.18%
+Validation Batch 455/700, Validation Accuracy: 92.19%
+Validation Batch 460/700, Validation Accuracy: 92.20%
+Validation Batch 465/700, Validation Accuracy: 92.20%
+Validation Batch 470/700, Validation Accuracy: 92.20%
+Validation Batch 475/700, Validation Accuracy: 92.18%
+Validation Batch 480/700, Validation Accuracy: 92.19%
+Validation Batch 485/700, Validation Accuracy: 92.19%
+Validation Batch 490/700, Validation Accuracy: 92.20%
+Validation Batch 495/700, Validation Accuracy: 92.21%
+Validation Batch 500/700, Validation Accuracy: 92.21%
+Validation Batch 505/700, Validation Accuracy: 92.22%
+Validation Batch 510/700, Validation Accuracy: 92.22%
+Validation Batch 515/700, Validation Accuracy: 92.24%
+Validation Batch 520/700, Validation Accuracy: 92.25%
+Validation Batch 525/700, Validation Accuracy: 92.23%
+Validation Batch 530/700, Validation Accuracy: 92.23%
+Validation Batch 535/700, Validation Accuracy: 92.21%
+Validation Batch 540/700, Validation Accuracy: 92.19%
+Validation Batch 545/700, Validation Accuracy: 92.19%
+Validation Batch 550/700, Validation Accuracy: 92.20%
+Validation Batch 555/700, Validation Accuracy: 92.18%
+Validation Batch 560/700, Validation Accuracy: 92.17%
+Validation Batch 565/700, Validation Accuracy: 92.17%
+Validation Batch 570/700, Validation Accuracy: 92.16%
+Validation Batch 575/700, Validation Accuracy: 92.16%
+Validation Batch 580/700, Validation Accuracy: 92.17%
+Validation Batch 585/700, Validation Accuracy: 92.18%
+Validation Batch 590/700, Validation Accuracy: 92.17%
+Validation Batch 595/700, Validation Accuracy: 92.18%
+Validation Batch 600/700, Validation Accuracy: 92.18%
+Validation Batch 605/700, Validation Accuracy: 92.18%
+Validation Batch 610/700, Validation Accuracy: 92.19%
+Validation Batch 615/700, Validation Accuracy: 92.18%
+Validation Batch 620/700, Validation Accuracy: 92.16%
+Validation Batch 625/700, Validation Accuracy: 92.16%
+Validation Batch 630/700, Validation Accuracy: 92.16%
+Validation Batch 635/700, Validation Accuracy: 92.15%
+Validation Batch 640/700, Validation Accuracy: 92.15%
+Validation Batch 645/700, Validation Accuracy: 92.16%
+Validation Batch 650/700, Validation Accuracy: 92.16%
+Validation Batch 655/700, Validation Accuracy: 92.17%
+Validation Batch 660/700, Validation Accuracy: 92.17%
+Validation Batch 665/700, Validation Accuracy: 92.18%
+Validation Batch 670/700, Validation Accuracy: 92.17%
+Validation Batch 675/700, Validation Accuracy: 92.18%
+Validation Batch 680/700, Validation Accuracy: 92.18%
+Validation Batch 685/700, Validation Accuracy: 92.18%
+Validation Batch 690/700, Validation Accuracy: 92.18%
+Validation Batch 695/700, Validation Accuracy: 92.17%
+Validation Batch 700/700, Validation Accuracy: 92.18%
+Validation Accuracy for Epoch 21: 92.18%
+
+--- Epoch 22/50 ---
+Batch 5/2797, Loss: 0.1594, Train Acc: 94.53%
+Batch 10/2797, Loss: 0.1448, Train Acc: 94.92%
+Batch 15/2797, Loss: 0.1420, Train Acc: 94.95%
+Batch 20/2797, Loss: 0.1469, Train Acc: 95.00%
+Batch 25/2797, Loss: 0.1375, Train Acc: 95.31%
+Batch 30/2797, Loss: 0.1444, Train Acc: 95.05%
+Batch 35/2797, Loss: 0.1470, Train Acc: 94.87%
+Batch 40/2797, Loss: 0.1485, Train Acc: 94.86%
+Batch 45/2797, Loss: 0.1473, Train Acc: 94.90%
+Batch 50/2797, Loss: 0.1507, Train Acc: 94.81%
+Batch 55/2797, Loss: 0.1546, Train Acc: 94.72%
+Batch 60/2797, Loss: 0.1539, Train Acc: 94.67%
+Batch 65/2797, Loss: 0.1531, Train Acc: 94.65%
+Batch 70/2797, Loss: 0.1521, Train Acc: 94.67%
+Batch 75/2797, Loss: 0.1514, Train Acc: 94.68%
+Batch 80/2797, Loss: 0.1516, Train Acc: 94.63%
+Batch 85/2797, Loss: 0.1503, Train Acc: 94.66%
+Batch 90/2797, Loss: 0.1531, Train Acc: 94.58%
+Batch 95/2797, Loss: 0.1524, Train Acc: 94.61%
+Batch 100/2797, Loss: 0.1527, Train Acc: 94.59%
+Batch 105/2797, Loss: 0.1517, Train Acc: 94.64%
+Batch 110/2797, Loss: 0.1523, Train Acc: 94.60%
+Batch 115/2797, Loss: 0.1520, Train Acc: 94.61%
+Batch 120/2797, Loss: 0.1506, Train Acc: 94.69%
+Batch 125/2797, Loss: 0.1490, Train Acc: 94.74%
+Batch 130/2797, Loss: 0.1481, Train Acc: 94.78%
+Batch 135/2797, Loss: 0.1504, Train Acc: 94.68%
+Batch 140/2797, Loss: 0.1504, Train Acc: 94.67%
+Batch 145/2797, Loss: 0.1498, Train Acc: 94.70%
+Batch 150/2797, Loss: 0.1495, Train Acc: 94.72%
+Batch 155/2797, Loss: 0.1492, Train Acc: 94.71%
+Batch 160/2797, Loss: 0.1491, Train Acc: 94.72%
+Batch 165/2797, Loss: 0.1496, Train Acc: 94.71%
+Batch 170/2797, Loss: 0.1495, Train Acc: 94.69%
+Batch 175/2797, Loss: 0.1500, Train Acc: 94.66%
+Batch 180/2797, Loss: 0.1502, Train Acc: 94.65%
+Batch 185/2797, Loss: 0.1496, Train Acc: 94.65%
+Batch 190/2797, Loss: 0.1495, Train Acc: 94.66%
+Batch 195/2797, Loss: 0.1501, Train Acc: 94.63%
+Batch 200/2797, Loss: 0.1496, Train Acc: 94.65%
+Batch 205/2797, Loss: 0.1491, Train Acc: 94.66%
+Batch 210/2797, Loss: 0.1485, Train Acc: 94.72%
+Batch 215/2797, Loss: 0.1482, Train Acc: 94.73%
+Batch 220/2797, Loss: 0.1487, Train Acc: 94.70%
+Batch 225/2797, Loss: 0.1484, Train Acc: 94.70%
+Batch 230/2797, Loss: 0.1479, Train Acc: 94.71%
+Batch 235/2797, Loss: 0.1480, Train Acc: 94.71%
+Batch 240/2797, Loss: 0.1481, Train Acc: 94.72%
+Batch 245/2797, Loss: 0.1485, Train Acc: 94.69%
+Batch 250/2797, Loss: 0.1478, Train Acc: 94.72%
+Batch 255/2797, Loss: 0.1479, Train Acc: 94.70%
+Batch 260/2797, Loss: 0.1476, Train Acc: 94.71%
+Batch 265/2797, Loss: 0.1483, Train Acc: 94.68%
+Batch 270/2797, Loss: 0.1488, Train Acc: 94.66%
+Batch 275/2797, Loss: 0.1491, Train Acc: 94.65%
+Batch 280/2797, Loss: 0.1502, Train Acc: 94.61%
+Batch 285/2797, Loss: 0.1503, Train Acc: 94.60%
+Batch 290/2797, Loss: 0.1501, Train Acc: 94.60%
+Batch 295/2797, Loss: 0.1502, Train Acc: 94.61%
+Batch 300/2797, Loss: 0.1502, Train Acc: 94.61%
+Batch 305/2797, Loss: 0.1496, Train Acc: 94.63%
+Batch 310/2797, Loss: 0.1495, Train Acc: 94.65%
+Batch 315/2797, Loss: 0.1500, Train Acc: 94.63%
+Batch 320/2797, Loss: 0.1499, Train Acc: 94.64%
+Batch 325/2797, Loss: 0.1497, Train Acc: 94.63%
+Batch 330/2797, Loss: 0.1494, Train Acc: 94.64%
+Batch 335/2797, Loss: 0.1495, Train Acc: 94.64%
+Batch 340/2797, Loss: 0.1497, Train Acc: 94.64%
+Batch 345/2797, Loss: 0.1501, Train Acc: 94.62%
+Batch 350/2797, Loss: 0.1501, Train Acc: 94.63%
+Batch 355/2797, Loss: 0.1501, Train Acc: 94.62%
+Batch 360/2797, Loss: 0.1501, Train Acc: 94.62%
+Batch 365/2797, Loss: 0.1496, Train Acc: 94.64%
+Batch 370/2797, Loss: 0.1495, Train Acc: 94.63%
+Batch 375/2797, Loss: 0.1496, Train Acc: 94.63%
+Batch 380/2797, Loss: 0.1495, Train Acc: 94.64%
+Batch 385/2797, Loss: 0.1492, Train Acc: 94.65%
+Batch 390/2797, Loss: 0.1489, Train Acc: 94.67%
+Batch 395/2797, Loss: 0.1490, Train Acc: 94.66%
+Batch 400/2797, Loss: 0.1491, Train Acc: 94.66%
+Batch 405/2797, Loss: 0.1489, Train Acc: 94.67%
+Batch 410/2797, Loss: 0.1487, Train Acc: 94.68%
+Batch 415/2797, Loss: 0.1486, Train Acc: 94.68%
+Batch 420/2797, Loss: 0.1488, Train Acc: 94.66%
+Batch 425/2797, Loss: 0.1491, Train Acc: 94.65%
+Batch 430/2797, Loss: 0.1492, Train Acc: 94.65%
+Batch 435/2797, Loss: 0.1492, Train Acc: 94.63%
+Batch 440/2797, Loss: 0.1491, Train Acc: 94.63%
+Batch 445/2797, Loss: 0.1493, Train Acc: 94.62%
+Batch 450/2797, Loss: 0.1495, Train Acc: 94.61%
+Batch 455/2797, Loss: 0.1493, Train Acc: 94.60%
+Batch 460/2797, Loss: 0.1492, Train Acc: 94.61%
+Batch 465/2797, Loss: 0.1490, Train Acc: 94.63%
+Batch 470/2797, Loss: 0.1489, Train Acc: 94.62%
+Batch 475/2797, Loss: 0.1487, Train Acc: 94.62%
+Batch 480/2797, Loss: 0.1489, Train Acc: 94.61%
+Batch 485/2797, Loss: 0.1492, Train Acc: 94.61%
+Batch 490/2797, Loss: 0.1490, Train Acc: 94.61%
+Batch 495/2797, Loss: 0.1490, Train Acc: 94.61%
+Batch 500/2797, Loss: 0.1489, Train Acc: 94.60%
+Batch 505/2797, Loss: 0.1487, Train Acc: 94.61%
+Batch 510/2797, Loss: 0.1485, Train Acc: 94.62%
+Batch 515/2797, Loss: 0.1482, Train Acc: 94.63%
+Batch 520/2797, Loss: 0.1486, Train Acc: 94.60%
+Batch 525/2797, Loss: 0.1486, Train Acc: 94.60%
+Batch 530/2797, Loss: 0.1486, Train Acc: 94.59%
+Batch 535/2797, Loss: 0.1485, Train Acc: 94.59%
+Batch 540/2797, Loss: 0.1485, Train Acc: 94.59%
+Batch 545/2797, Loss: 0.1485, Train Acc: 94.59%
+Batch 550/2797, Loss: 0.1484, Train Acc: 94.59%
+Batch 555/2797, Loss: 0.1483, Train Acc: 94.59%
+Batch 560/2797, Loss: 0.1484, Train Acc: 94.59%
+Batch 565/2797, Loss: 0.1485, Train Acc: 94.58%
+Batch 570/2797, Loss: 0.1487, Train Acc: 94.57%
+Batch 575/2797, Loss: 0.1492, Train Acc: 94.55%
+Batch 580/2797, Loss: 0.1491, Train Acc: 94.55%
+Batch 585/2797, Loss: 0.1491, Train Acc: 94.55%
+Batch 590/2797, Loss: 0.1491, Train Acc: 94.54%
+Batch 595/2797, Loss: 0.1490, Train Acc: 94.54%
+Batch 600/2797, Loss: 0.1493, Train Acc: 94.53%
+Batch 605/2797, Loss: 0.1493, Train Acc: 94.53%
+Batch 610/2797, Loss: 0.1493, Train Acc: 94.53%
+Batch 615/2797, Loss: 0.1495, Train Acc: 94.53%
+Batch 620/2797, Loss: 0.1494, Train Acc: 94.52%
+Batch 625/2797, Loss: 0.1497, Train Acc: 94.51%
+Batch 630/2797, Loss: 0.1496, Train Acc: 94.51%
+Batch 635/2797, Loss: 0.1495, Train Acc: 94.52%
+Batch 640/2797, Loss: 0.1493, Train Acc: 94.52%
+Batch 645/2797, Loss: 0.1493, Train Acc: 94.52%
+Batch 650/2797, Loss: 0.1496, Train Acc: 94.51%
+Batch 655/2797, Loss: 0.1499, Train Acc: 94.51%
+Batch 660/2797, Loss: 0.1501, Train Acc: 94.49%
+Batch 665/2797, Loss: 0.1502, Train Acc: 94.49%
+Batch 670/2797, Loss: 0.1502, Train Acc: 94.49%
+Batch 675/2797, Loss: 0.1500, Train Acc: 94.49%
+Batch 680/2797, Loss: 0.1500, Train Acc: 94.49%
+Batch 685/2797, Loss: 0.1505, Train Acc: 94.48%
+Batch 690/2797, Loss: 0.1507, Train Acc: 94.46%
+Batch 695/2797, Loss: 0.1506, Train Acc: 94.47%
+Batch 700/2797, Loss: 0.1508, Train Acc: 94.46%
+Batch 705/2797, Loss: 0.1507, Train Acc: 94.46%
+Batch 710/2797, Loss: 0.1507, Train Acc: 94.46%
+Batch 715/2797, Loss: 0.1505, Train Acc: 94.47%
+Batch 720/2797, Loss: 0.1507, Train Acc: 94.46%
+Batch 725/2797, Loss: 0.1506, Train Acc: 94.45%
+Batch 730/2797, Loss: 0.1505, Train Acc: 94.46%
+Batch 735/2797, Loss: 0.1506, Train Acc: 94.45%
+Batch 740/2797, Loss: 0.1510, Train Acc: 94.43%
+Batch 745/2797, Loss: 0.1508, Train Acc: 94.44%
+Batch 750/2797, Loss: 0.1509, Train Acc: 94.43%
+Batch 755/2797, Loss: 0.1510, Train Acc: 94.42%
+Batch 760/2797, Loss: 0.1510, Train Acc: 94.42%
+Batch 765/2797, Loss: 0.1508, Train Acc: 94.43%
+Batch 770/2797, Loss: 0.1507, Train Acc: 94.43%
+Batch 775/2797, Loss: 0.1506, Train Acc: 94.43%
+Batch 780/2797, Loss: 0.1506, Train Acc: 94.44%
+Batch 785/2797, Loss: 0.1505, Train Acc: 94.44%
+Batch 790/2797, Loss: 0.1503, Train Acc: 94.44%
+Batch 795/2797, Loss: 0.1503, Train Acc: 94.44%
+Batch 800/2797, Loss: 0.1501, Train Acc: 94.45%
+Batch 805/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 810/2797, Loss: 0.1500, Train Acc: 94.46%
+Batch 815/2797, Loss: 0.1499, Train Acc: 94.46%
+Batch 820/2797, Loss: 0.1498, Train Acc: 94.47%
+Batch 825/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 830/2797, Loss: 0.1495, Train Acc: 94.48%
+Batch 835/2797, Loss: 0.1493, Train Acc: 94.49%
+Batch 840/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 845/2797, Loss: 0.1494, Train Acc: 94.49%
+Batch 850/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 855/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 860/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 865/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 870/2797, Loss: 0.1492, Train Acc: 94.49%
+Batch 875/2797, Loss: 0.1491, Train Acc: 94.49%
+Batch 880/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 885/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 890/2797, Loss: 0.1494, Train Acc: 94.48%
+Batch 895/2797, Loss: 0.1493, Train Acc: 94.48%
+Batch 900/2797, Loss: 0.1493, Train Acc: 94.49%
+Batch 905/2797, Loss: 0.1492, Train Acc: 94.48%
+Batch 910/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 915/2797, Loss: 0.1493, Train Acc: 94.47%
+Batch 920/2797, Loss: 0.1494, Train Acc: 94.47%
+Batch 925/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 930/2797, Loss: 0.1497, Train Acc: 94.46%
+Batch 935/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 940/2797, Loss: 0.1499, Train Acc: 94.45%
+Batch 945/2797, Loss: 0.1500, Train Acc: 94.44%
+Batch 950/2797, Loss: 0.1499, Train Acc: 94.44%
+Batch 955/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 960/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 965/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 970/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 975/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 980/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 985/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 990/2797, Loss: 0.1496, Train Acc: 94.46%
+Batch 995/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 1000/2797, Loss: 0.1495, Train Acc: 94.47%
+Batch 1005/2797, Loss: 0.1495, Train Acc: 94.46%
+Batch 1010/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1015/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1020/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1025/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1030/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1035/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1040/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1045/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 1050/2797, Loss: 0.1494, Train Acc: 94.46%
+Batch 1055/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 1060/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 1065/2797, Loss: 0.1492, Train Acc: 94.47%
+Batch 1070/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1075/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1080/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1085/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1090/2797, Loss: 0.1492, Train Acc: 94.47%
+Batch 1095/2797, Loss: 0.1493, Train Acc: 94.47%
+Batch 1100/2797, Loss: 0.1491, Train Acc: 94.48%
+Batch 1105/2797, Loss: 0.1490, Train Acc: 94.48%
+Batch 1110/2797, Loss: 0.1490, Train Acc: 94.48%
+Batch 1115/2797, Loss: 0.1489, Train Acc: 94.49%
+Batch 1120/2797, Loss: 0.1488, Train Acc: 94.49%
+Batch 1125/2797, Loss: 0.1486, Train Acc: 94.50%
+Batch 1130/2797, Loss: 0.1485, Train Acc: 94.50%
+Batch 1135/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 1140/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 1145/2797, Loss: 0.1487, Train Acc: 94.50%
+Batch 1150/2797, Loss: 0.1486, Train Acc: 94.50%
+Batch 1155/2797, Loss: 0.1486, Train Acc: 94.50%
+Batch 1160/2797, Loss: 0.1486, Train Acc: 94.50%
+Batch 1165/2797, Loss: 0.1484, Train Acc: 94.51%
+Batch 1170/2797, Loss: 0.1484, Train Acc: 94.51%
+Batch 1175/2797, Loss: 0.1484, Train Acc: 94.51%
+Batch 1180/2797, Loss: 0.1484, Train Acc: 94.51%
+Batch 1185/2797, Loss: 0.1482, Train Acc: 94.52%
+Batch 1190/2797, Loss: 0.1483, Train Acc: 94.51%
+Batch 1195/2797, Loss: 0.1484, Train Acc: 94.50%
+Batch 1200/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 1205/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 1210/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 1215/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 1220/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 1225/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1230/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 1235/2797, Loss: 0.1481, Train Acc: 94.51%
+Batch 1240/2797, Loss: 0.1481, Train Acc: 94.52%
+Batch 1245/2797, Loss: 0.1480, Train Acc: 94.52%
+Batch 1250/2797, Loss: 0.1481, Train Acc: 94.51%
+Batch 1255/2797, Loss: 0.1480, Train Acc: 94.51%
+Batch 1260/2797, Loss: 0.1480, Train Acc: 94.51%
+Batch 1265/2797, Loss: 0.1481, Train Acc: 94.51%
+Batch 1270/2797, Loss: 0.1480, Train Acc: 94.52%
+Batch 1275/2797, Loss: 0.1479, Train Acc: 94.52%
+Batch 1280/2797, Loss: 0.1480, Train Acc: 94.52%
+Batch 1285/2797, Loss: 0.1479, Train Acc: 94.52%
+Batch 1290/2797, Loss: 0.1480, Train Acc: 94.52%
+Batch 1295/2797, Loss: 0.1481, Train Acc: 94.51%
+Batch 1300/2797, Loss: 0.1481, Train Acc: 94.51%
+Batch 1305/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 1310/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1315/2797, Loss: 0.1484, Train Acc: 94.50%
+Batch 1320/2797, Loss: 0.1485, Train Acc: 94.49%
+Batch 1325/2797, Loss: 0.1485, Train Acc: 94.49%
+Batch 1330/2797, Loss: 0.1485, Train Acc: 94.49%
+Batch 1335/2797, Loss: 0.1484, Train Acc: 94.50%
+Batch 1340/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1345/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1350/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 1355/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1360/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 1365/2797, Loss: 0.1482, Train Acc: 94.50%
+Batch 1370/2797, Loss: 0.1482, Train Acc: 94.50%
+Batch 1375/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1380/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1385/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 1390/2797, Loss: 0.1481, Train Acc: 94.51%
+Batch 1395/2797, Loss: 0.1481, Train Acc: 94.51%
+Batch 1400/2797, Loss: 0.1481, Train Acc: 94.51%
+Batch 1405/2797, Loss: 0.1481, Train Acc: 94.51%
+Batch 1410/2797, Loss: 0.1480, Train Acc: 94.51%
+Batch 1415/2797, Loss: 0.1480, Train Acc: 94.51%
+Batch 1420/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 1425/2797, Loss: 0.1480, Train Acc: 94.51%
+Batch 1430/2797, Loss: 0.1481, Train Acc: 94.51%
+Batch 1435/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 1440/2797, Loss: 0.1480, Train Acc: 94.51%
+Batch 1445/2797, Loss: 0.1481, Train Acc: 94.51%
+Batch 1450/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 1455/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 1460/2797, Loss: 0.1483, Train Acc: 94.51%
+Batch 1465/2797, Loss: 0.1483, Train Acc: 94.51%
+Batch 1470/2797, Loss: 0.1483, Train Acc: 94.51%
+Batch 1475/2797, Loss: 0.1484, Train Acc: 94.50%
+Batch 1480/2797, Loss: 0.1484, Train Acc: 94.50%
+Batch 1485/2797, Loss: 0.1483, Train Acc: 94.51%
+Batch 1490/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 1495/2797, Loss: 0.1483, Train Acc: 94.51%
+Batch 1500/2797, Loss: 0.1483, Train Acc: 94.51%
+Batch 1505/2797, Loss: 0.1484, Train Acc: 94.51%
+Batch 1510/2797, Loss: 0.1484, Train Acc: 94.50%
+Batch 1515/2797, Loss: 0.1483, Train Acc: 94.51%
+Batch 1520/2797, Loss: 0.1483, Train Acc: 94.51%
+Batch 1525/2797, Loss: 0.1483, Train Acc: 94.51%
+Batch 1530/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1535/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 1540/2797, Loss: 0.1482, Train Acc: 94.50%
+Batch 1545/2797, Loss: 0.1482, Train Acc: 94.50%
+Batch 1550/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1555/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1560/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1565/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1570/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1575/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1580/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1585/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1590/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1595/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 1600/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1605/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1610/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1615/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1620/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1625/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1630/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1635/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1640/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1645/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 1650/2797, Loss: 0.1484, Train Acc: 94.50%
+Batch 1655/2797, Loss: 0.1484, Train Acc: 94.50%
+Batch 1660/2797, Loss: 0.1484, Train Acc: 94.49%
+Batch 1665/2797, Loss: 0.1484, Train Acc: 94.50%
+Batch 1670/2797, Loss: 0.1485, Train Acc: 94.49%
+Batch 1675/2797, Loss: 0.1485, Train Acc: 94.49%
+Batch 1680/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 1685/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1690/2797, Loss: 0.1487, Train Acc: 94.49%
+Batch 1695/2797, Loss: 0.1488, Train Acc: 94.49%
+Batch 1700/2797, Loss: 0.1488, Train Acc: 94.49%
+Batch 1705/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1710/2797, Loss: 0.1487, Train Acc: 94.49%
+Batch 1715/2797, Loss: 0.1487, Train Acc: 94.49%
+Batch 1720/2797, Loss: 0.1487, Train Acc: 94.49%
+Batch 1725/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 1730/2797, Loss: 0.1487, Train Acc: 94.49%
+Batch 1735/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 1740/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 1745/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 1750/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 1755/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 1760/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 1765/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 1770/2797, Loss: 0.1486, Train Acc: 94.48%
+Batch 1775/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 1780/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 1785/2797, Loss: 0.1486, Train Acc: 94.48%
+Batch 1790/2797, Loss: 0.1485, Train Acc: 94.49%
+Batch 1795/2797, Loss: 0.1486, Train Acc: 94.48%
+Batch 1800/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 1805/2797, Loss: 0.1486, Train Acc: 94.48%
+Batch 1810/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 1815/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 1820/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 1825/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 1830/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 1835/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 1840/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 1845/2797, Loss: 0.1486, Train Acc: 94.48%
+Batch 1850/2797, Loss: 0.1485, Train Acc: 94.49%
+Batch 1855/2797, Loss: 0.1485, Train Acc: 94.49%
+Batch 1860/2797, Loss: 0.1484, Train Acc: 94.49%
+Batch 1865/2797, Loss: 0.1485, Train Acc: 94.49%
+Batch 1870/2797, Loss: 0.1485, Train Acc: 94.48%
+Batch 1875/2797, Loss: 0.1486, Train Acc: 94.48%
+Batch 1880/2797, Loss: 0.1486, Train Acc: 94.48%
+Batch 1885/2797, Loss: 0.1485, Train Acc: 94.48%
+Batch 1890/2797, Loss: 0.1486, Train Acc: 94.48%
+Batch 1895/2797, Loss: 0.1486, Train Acc: 94.48%
+Batch 1900/2797, Loss: 0.1486, Train Acc: 94.48%
+Batch 1905/2797, Loss: 0.1486, Train Acc: 94.48%
+Batch 1910/2797, Loss: 0.1486, Train Acc: 94.48%
+Batch 1915/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 1920/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 1925/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 1930/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 1935/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 1940/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 1945/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1950/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1955/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1960/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 1965/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 1970/2797, Loss: 0.1488, Train Acc: 94.47%
+Batch 1975/2797, Loss: 0.1488, Train Acc: 94.47%
+Batch 1980/2797, Loss: 0.1488, Train Acc: 94.47%
+Batch 1985/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1990/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1995/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 2000/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2005/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2010/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2015/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2020/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2025/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2030/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2035/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2040/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2045/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2050/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 2055/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 2060/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 2065/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 2070/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 2075/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2080/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2085/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 2090/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2095/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2100/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2105/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2110/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2115/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 2120/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2125/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2130/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2135/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2140/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2145/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 2150/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2155/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2160/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2165/2797, Loss: 0.1488, Train Acc: 94.47%
+Batch 2170/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 2175/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2180/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2185/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2190/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2195/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2200/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2205/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2210/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2215/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2220/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2225/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2230/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2235/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2240/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2245/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2250/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2255/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2260/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2265/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2270/2797, Loss: 0.1490, Train Acc: 94.48%
+Batch 2275/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2280/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2285/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2290/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2295/2797, Loss: 0.1490, Train Acc: 94.48%
+Batch 2300/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2305/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2310/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2315/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 2320/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2325/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2330/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2335/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 2340/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2345/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2350/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2355/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2360/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 2365/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2370/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2375/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2380/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 2385/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2390/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2395/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 2400/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2405/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2410/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2415/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2420/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2425/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2430/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 2435/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 2440/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 2445/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 2450/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 2455/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 2460/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 2465/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 2470/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 2475/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2480/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 2485/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 2490/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2495/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2500/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2505/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 2510/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 2515/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2520/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 2525/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 2530/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 2535/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2540/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 2545/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 2550/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 2555/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 2560/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 2565/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2570/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2575/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2580/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2585/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2590/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2595/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2600/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2605/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2610/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2615/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2620/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2625/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2630/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2635/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2640/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2645/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2650/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2655/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2660/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2665/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2670/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2675/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2680/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2685/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2690/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2695/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2700/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2705/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2710/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2715/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2720/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2725/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2730/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2735/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2740/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2745/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2750/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2755/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2760/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2765/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2770/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2775/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2780/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2785/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2790/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2795/2797, Loss: 0.1496, Train Acc: 94.44%
+Learning Rate: 0.000000
+Epoch 22/50, Average Loss: 0.1496, Train Accuracy: 94.44%
+Validation Batch 5/700, Validation Accuracy: 95.16%
+Validation Batch 10/700, Validation Accuracy: 94.30%
+Validation Batch 15/700, Validation Accuracy: 93.28%
+Validation Batch 20/700, Validation Accuracy: 92.73%
+Validation Batch 25/700, Validation Accuracy: 92.41%
+Validation Batch 30/700, Validation Accuracy: 92.37%
+Validation Batch 35/700, Validation Accuracy: 92.41%
+Validation Batch 40/700, Validation Accuracy: 92.46%
+Validation Batch 45/700, Validation Accuracy: 92.45%
+Validation Batch 50/700, Validation Accuracy: 92.66%
+Validation Batch 55/700, Validation Accuracy: 92.70%
+Validation Batch 60/700, Validation Accuracy: 92.58%
+Validation Batch 65/700, Validation Accuracy: 92.57%
+Validation Batch 70/700, Validation Accuracy: 92.59%
+Validation Batch 75/700, Validation Accuracy: 92.53%
+Validation Batch 80/700, Validation Accuracy: 92.40%
+Validation Batch 85/700, Validation Accuracy: 92.34%
+Validation Batch 90/700, Validation Accuracy: 92.34%
+Validation Batch 95/700, Validation Accuracy: 92.27%
+Validation Batch 100/700, Validation Accuracy: 92.27%
+Validation Batch 105/700, Validation Accuracy: 92.25%
+Validation Batch 110/700, Validation Accuracy: 92.22%
+Validation Batch 115/700, Validation Accuracy: 92.19%
+Validation Batch 120/700, Validation Accuracy: 92.18%
+Validation Batch 125/700, Validation Accuracy: 92.17%
+Validation Batch 130/700, Validation Accuracy: 92.15%
+Validation Batch 135/700, Validation Accuracy: 92.11%
+Validation Batch 140/700, Validation Accuracy: 92.07%
+Validation Batch 145/700, Validation Accuracy: 92.07%
+Validation Batch 150/700, Validation Accuracy: 92.14%
+Validation Batch 155/700, Validation Accuracy: 92.16%
+Validation Batch 160/700, Validation Accuracy: 92.13%
+Validation Batch 165/700, Validation Accuracy: 92.16%
+Validation Batch 170/700, Validation Accuracy: 92.18%
+Validation Batch 175/700, Validation Accuracy: 92.23%
+Validation Batch 180/700, Validation Accuracy: 92.25%
+Validation Batch 185/700, Validation Accuracy: 92.26%
+Validation Batch 190/700, Validation Accuracy: 92.26%
+Validation Batch 195/700, Validation Accuracy: 92.26%
+Validation Batch 200/700, Validation Accuracy: 92.26%
+Validation Batch 205/700, Validation Accuracy: 92.24%
+Validation Batch 210/700, Validation Accuracy: 92.24%
+Validation Batch 215/700, Validation Accuracy: 92.26%
+Validation Batch 220/700, Validation Accuracy: 92.22%
+Validation Batch 225/700, Validation Accuracy: 92.26%
+Validation Batch 230/700, Validation Accuracy: 92.24%
+Validation Batch 235/700, Validation Accuracy: 92.22%
+Validation Batch 240/700, Validation Accuracy: 92.24%
+Validation Batch 245/700, Validation Accuracy: 92.26%
+Validation Batch 250/700, Validation Accuracy: 92.24%
+Validation Batch 255/700, Validation Accuracy: 92.26%
+Validation Batch 260/700, Validation Accuracy: 92.29%
+Validation Batch 265/700, Validation Accuracy: 92.26%
+Validation Batch 270/700, Validation Accuracy: 92.25%
+Validation Batch 275/700, Validation Accuracy: 92.26%
+Validation Batch 280/700, Validation Accuracy: 92.25%
+Validation Batch 285/700, Validation Accuracy: 92.29%
+Validation Batch 290/700, Validation Accuracy: 92.30%
+Validation Batch 295/700, Validation Accuracy: 92.33%
+Validation Batch 300/700, Validation Accuracy: 92.33%
+Validation Batch 305/700, Validation Accuracy: 92.35%
+Validation Batch 310/700, Validation Accuracy: 92.32%
+Validation Batch 315/700, Validation Accuracy: 92.31%
+Validation Batch 320/700, Validation Accuracy: 92.30%
+Validation Batch 325/700, Validation Accuracy: 92.29%
+Validation Batch 330/700, Validation Accuracy: 92.29%
+Validation Batch 335/700, Validation Accuracy: 92.30%
+Validation Batch 340/700, Validation Accuracy: 92.32%
+Validation Batch 345/700, Validation Accuracy: 92.31%
+Validation Batch 350/700, Validation Accuracy: 92.31%
+Validation Batch 355/700, Validation Accuracy: 92.28%
+Validation Batch 360/700, Validation Accuracy: 92.30%
+Validation Batch 365/700, Validation Accuracy: 92.28%
+Validation Batch 370/700, Validation Accuracy: 92.27%
+Validation Batch 375/700, Validation Accuracy: 92.27%
+Validation Batch 380/700, Validation Accuracy: 92.27%
+Validation Batch 385/700, Validation Accuracy: 92.27%
+Validation Batch 390/700, Validation Accuracy: 92.24%
+Validation Batch 395/700, Validation Accuracy: 92.23%
+Validation Batch 400/700, Validation Accuracy: 92.23%
+Validation Batch 405/700, Validation Accuracy: 92.20%
+Validation Batch 410/700, Validation Accuracy: 92.19%
+Validation Batch 415/700, Validation Accuracy: 92.20%
+Validation Batch 420/700, Validation Accuracy: 92.21%
+Validation Batch 425/700, Validation Accuracy: 92.21%
+Validation Batch 430/700, Validation Accuracy: 92.22%
+Validation Batch 435/700, Validation Accuracy: 92.22%
+Validation Batch 440/700, Validation Accuracy: 92.22%
+Validation Batch 445/700, Validation Accuracy: 92.22%
+Validation Batch 450/700, Validation Accuracy: 92.24%
+Validation Batch 455/700, Validation Accuracy: 92.25%
+Validation Batch 460/700, Validation Accuracy: 92.27%
+Validation Batch 465/700, Validation Accuracy: 92.28%
+Validation Batch 470/700, Validation Accuracy: 92.28%
+Validation Batch 475/700, Validation Accuracy: 92.27%
+Validation Batch 480/700, Validation Accuracy: 92.29%
+Validation Batch 485/700, Validation Accuracy: 92.30%
+Validation Batch 490/700, Validation Accuracy: 92.31%
+Validation Batch 495/700, Validation Accuracy: 92.30%
+Validation Batch 500/700, Validation Accuracy: 92.30%
+Validation Batch 505/700, Validation Accuracy: 92.32%
+Validation Batch 510/700, Validation Accuracy: 92.32%
+Validation Batch 515/700, Validation Accuracy: 92.33%
+Validation Batch 520/700, Validation Accuracy: 92.34%
+Validation Batch 525/700, Validation Accuracy: 92.32%
+Validation Batch 530/700, Validation Accuracy: 92.33%
+Validation Batch 535/700, Validation Accuracy: 92.32%
+Validation Batch 540/700, Validation Accuracy: 92.31%
+Validation Batch 545/700, Validation Accuracy: 92.31%
+Validation Batch 550/700, Validation Accuracy: 92.32%
+Validation Batch 555/700, Validation Accuracy: 92.30%
+Validation Batch 560/700, Validation Accuracy: 92.28%
+Validation Batch 565/700, Validation Accuracy: 92.28%
+Validation Batch 570/700, Validation Accuracy: 92.28%
+Validation Batch 575/700, Validation Accuracy: 92.27%
+Validation Batch 580/700, Validation Accuracy: 92.27%
+Validation Batch 585/700, Validation Accuracy: 92.28%
+Validation Batch 590/700, Validation Accuracy: 92.27%
+Validation Batch 595/700, Validation Accuracy: 92.27%
+Validation Batch 600/700, Validation Accuracy: 92.27%
+Validation Batch 605/700, Validation Accuracy: 92.27%
+Validation Batch 610/700, Validation Accuracy: 92.28%
+Validation Batch 615/700, Validation Accuracy: 92.26%
+Validation Batch 620/700, Validation Accuracy: 92.25%
+Validation Batch 625/700, Validation Accuracy: 92.25%
+Validation Batch 630/700, Validation Accuracy: 92.25%
+Validation Batch 635/700, Validation Accuracy: 92.23%
+Validation Batch 640/700, Validation Accuracy: 92.22%
+Validation Batch 645/700, Validation Accuracy: 92.24%
+Validation Batch 650/700, Validation Accuracy: 92.24%
+Validation Batch 655/700, Validation Accuracy: 92.25%
+Validation Batch 660/700, Validation Accuracy: 92.25%
+Validation Batch 665/700, Validation Accuracy: 92.26%
+Validation Batch 670/700, Validation Accuracy: 92.25%
+Validation Batch 675/700, Validation Accuracy: 92.27%
+Validation Batch 680/700, Validation Accuracy: 92.27%
+Validation Batch 685/700, Validation Accuracy: 92.27%
+Validation Batch 690/700, Validation Accuracy: 92.27%
+Validation Batch 695/700, Validation Accuracy: 92.27%
+Validation Batch 700/700, Validation Accuracy: 92.28%
+Validation Accuracy for Epoch 22: 92.28%
+
+--- Epoch 23/50 ---
+Batch 5/2797, Loss: 0.1565, Train Acc: 94.22%
+Batch 10/2797, Loss: 0.1525, Train Acc: 94.69%
+Batch 15/2797, Loss: 0.1459, Train Acc: 94.95%
+Batch 20/2797, Loss: 0.1419, Train Acc: 95.23%
+Batch 25/2797, Loss: 0.1460, Train Acc: 94.84%
+Batch 30/2797, Loss: 0.1456, Train Acc: 94.77%
+Batch 35/2797, Loss: 0.1431, Train Acc: 94.82%
+Batch 40/2797, Loss: 0.1414, Train Acc: 94.80%
+Batch 45/2797, Loss: 0.1420, Train Acc: 94.72%
+Batch 50/2797, Loss: 0.1415, Train Acc: 94.75%
+Batch 55/2797, Loss: 0.1433, Train Acc: 94.64%
+Batch 60/2797, Loss: 0.1431, Train Acc: 94.67%
+Batch 65/2797, Loss: 0.1431, Train Acc: 94.69%
+Batch 70/2797, Loss: 0.1455, Train Acc: 94.55%
+Batch 75/2797, Loss: 0.1439, Train Acc: 94.61%
+Batch 80/2797, Loss: 0.1449, Train Acc: 94.61%
+Batch 85/2797, Loss: 0.1460, Train Acc: 94.55%
+Batch 90/2797, Loss: 0.1466, Train Acc: 94.53%
+Batch 95/2797, Loss: 0.1479, Train Acc: 94.48%
+Batch 100/2797, Loss: 0.1474, Train Acc: 94.52%
+Batch 105/2797, Loss: 0.1462, Train Acc: 94.61%
+Batch 110/2797, Loss: 0.1468, Train Acc: 94.57%
+Batch 115/2797, Loss: 0.1462, Train Acc: 94.57%
+Batch 120/2797, Loss: 0.1471, Train Acc: 94.52%
+Batch 125/2797, Loss: 0.1488, Train Acc: 94.41%
+Batch 130/2797, Loss: 0.1476, Train Acc: 94.47%
+Batch 135/2797, Loss: 0.1478, Train Acc: 94.47%
+Batch 140/2797, Loss: 0.1489, Train Acc: 94.43%
+Batch 145/2797, Loss: 0.1494, Train Acc: 94.39%
+Batch 150/2797, Loss: 0.1494, Train Acc: 94.40%
+Batch 155/2797, Loss: 0.1491, Train Acc: 94.41%
+Batch 160/2797, Loss: 0.1499, Train Acc: 94.40%
+Batch 165/2797, Loss: 0.1494, Train Acc: 94.42%
+Batch 170/2797, Loss: 0.1486, Train Acc: 94.47%
+Batch 175/2797, Loss: 0.1481, Train Acc: 94.50%
+Batch 180/2797, Loss: 0.1476, Train Acc: 94.56%
+Batch 185/2797, Loss: 0.1478, Train Acc: 94.56%
+Batch 190/2797, Loss: 0.1476, Train Acc: 94.56%
+Batch 195/2797, Loss: 0.1473, Train Acc: 94.58%
+Batch 200/2797, Loss: 0.1470, Train Acc: 94.60%
+Batch 205/2797, Loss: 0.1476, Train Acc: 94.57%
+Batch 210/2797, Loss: 0.1475, Train Acc: 94.61%
+Batch 215/2797, Loss: 0.1469, Train Acc: 94.61%
+Batch 220/2797, Loss: 0.1472, Train Acc: 94.60%
+Batch 225/2797, Loss: 0.1466, Train Acc: 94.62%
+Batch 230/2797, Loss: 0.1461, Train Acc: 94.65%
+Batch 235/2797, Loss: 0.1464, Train Acc: 94.65%
+Batch 240/2797, Loss: 0.1461, Train Acc: 94.67%
+Batch 245/2797, Loss: 0.1467, Train Acc: 94.65%
+Batch 250/2797, Loss: 0.1466, Train Acc: 94.65%
+Batch 255/2797, Loss: 0.1471, Train Acc: 94.64%
+Batch 260/2797, Loss: 0.1478, Train Acc: 94.61%
+Batch 265/2797, Loss: 0.1475, Train Acc: 94.61%
+Batch 270/2797, Loss: 0.1471, Train Acc: 94.62%
+Batch 275/2797, Loss: 0.1471, Train Acc: 94.63%
+Batch 280/2797, Loss: 0.1470, Train Acc: 94.64%
+Batch 285/2797, Loss: 0.1468, Train Acc: 94.66%
+Batch 290/2797, Loss: 0.1467, Train Acc: 94.66%
+Batch 295/2797, Loss: 0.1466, Train Acc: 94.67%
+Batch 300/2797, Loss: 0.1470, Train Acc: 94.66%
+Batch 305/2797, Loss: 0.1470, Train Acc: 94.66%
+Batch 310/2797, Loss: 0.1467, Train Acc: 94.67%
+Batch 315/2797, Loss: 0.1468, Train Acc: 94.67%
+Batch 320/2797, Loss: 0.1471, Train Acc: 94.66%
+Batch 325/2797, Loss: 0.1475, Train Acc: 94.64%
+Batch 330/2797, Loss: 0.1475, Train Acc: 94.65%
+Batch 335/2797, Loss: 0.1475, Train Acc: 94.65%
+Batch 340/2797, Loss: 0.1474, Train Acc: 94.64%
+Batch 345/2797, Loss: 0.1473, Train Acc: 94.65%
+Batch 350/2797, Loss: 0.1477, Train Acc: 94.63%
+Batch 355/2797, Loss: 0.1478, Train Acc: 94.63%
+Batch 360/2797, Loss: 0.1477, Train Acc: 94.63%
+Batch 365/2797, Loss: 0.1474, Train Acc: 94.63%
+Batch 370/2797, Loss: 0.1476, Train Acc: 94.61%
+Batch 375/2797, Loss: 0.1476, Train Acc: 94.61%
+Batch 380/2797, Loss: 0.1476, Train Acc: 94.60%
+Batch 385/2797, Loss: 0.1477, Train Acc: 94.59%
+Batch 390/2797, Loss: 0.1476, Train Acc: 94.59%
+Batch 395/2797, Loss: 0.1480, Train Acc: 94.57%
+Batch 400/2797, Loss: 0.1479, Train Acc: 94.57%
+Batch 405/2797, Loss: 0.1478, Train Acc: 94.58%
+Batch 410/2797, Loss: 0.1477, Train Acc: 94.58%
+Batch 415/2797, Loss: 0.1478, Train Acc: 94.58%
+Batch 420/2797, Loss: 0.1479, Train Acc: 94.57%
+Batch 425/2797, Loss: 0.1478, Train Acc: 94.58%
+Batch 430/2797, Loss: 0.1478, Train Acc: 94.58%
+Batch 435/2797, Loss: 0.1479, Train Acc: 94.57%
+Batch 440/2797, Loss: 0.1477, Train Acc: 94.58%
+Batch 445/2797, Loss: 0.1478, Train Acc: 94.57%
+Batch 450/2797, Loss: 0.1479, Train Acc: 94.56%
+Batch 455/2797, Loss: 0.1480, Train Acc: 94.56%
+Batch 460/2797, Loss: 0.1480, Train Acc: 94.56%
+Batch 465/2797, Loss: 0.1481, Train Acc: 94.56%
+Batch 470/2797, Loss: 0.1481, Train Acc: 94.55%
+Batch 475/2797, Loss: 0.1483, Train Acc: 94.54%
+Batch 480/2797, Loss: 0.1485, Train Acc: 94.52%
+Batch 485/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 490/2797, Loss: 0.1481, Train Acc: 94.54%
+Batch 495/2797, Loss: 0.1483, Train Acc: 94.53%
+Batch 500/2797, Loss: 0.1482, Train Acc: 94.54%
+Batch 505/2797, Loss: 0.1484, Train Acc: 94.53%
+Batch 510/2797, Loss: 0.1482, Train Acc: 94.54%
+Batch 515/2797, Loss: 0.1480, Train Acc: 94.54%
+Batch 520/2797, Loss: 0.1477, Train Acc: 94.55%
+Batch 525/2797, Loss: 0.1482, Train Acc: 94.54%
+Batch 530/2797, Loss: 0.1483, Train Acc: 94.54%
+Batch 535/2797, Loss: 0.1485, Train Acc: 94.52%
+Batch 540/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 545/2797, Loss: 0.1486, Train Acc: 94.52%
+Batch 550/2797, Loss: 0.1486, Train Acc: 94.52%
+Batch 555/2797, Loss: 0.1483, Train Acc: 94.54%
+Batch 560/2797, Loss: 0.1484, Train Acc: 94.53%
+Batch 565/2797, Loss: 0.1481, Train Acc: 94.55%
+Batch 570/2797, Loss: 0.1481, Train Acc: 94.55%
+Batch 575/2797, Loss: 0.1481, Train Acc: 94.55%
+Batch 580/2797, Loss: 0.1481, Train Acc: 94.54%
+Batch 585/2797, Loss: 0.1479, Train Acc: 94.56%
+Batch 590/2797, Loss: 0.1478, Train Acc: 94.56%
+Batch 595/2797, Loss: 0.1478, Train Acc: 94.56%
+Batch 600/2797, Loss: 0.1479, Train Acc: 94.55%
+Batch 605/2797, Loss: 0.1479, Train Acc: 94.55%
+Batch 610/2797, Loss: 0.1479, Train Acc: 94.55%
+Batch 615/2797, Loss: 0.1480, Train Acc: 94.54%
+Batch 620/2797, Loss: 0.1478, Train Acc: 94.55%
+Batch 625/2797, Loss: 0.1478, Train Acc: 94.55%
+Batch 630/2797, Loss: 0.1476, Train Acc: 94.56%
+Batch 635/2797, Loss: 0.1475, Train Acc: 94.56%
+Batch 640/2797, Loss: 0.1475, Train Acc: 94.57%
+Batch 645/2797, Loss: 0.1474, Train Acc: 94.56%
+Batch 650/2797, Loss: 0.1474, Train Acc: 94.57%
+Batch 655/2797, Loss: 0.1473, Train Acc: 94.57%
+Batch 660/2797, Loss: 0.1472, Train Acc: 94.58%
+Batch 665/2797, Loss: 0.1472, Train Acc: 94.58%
+Batch 670/2797, Loss: 0.1472, Train Acc: 94.58%
+Batch 675/2797, Loss: 0.1474, Train Acc: 94.57%
+Batch 680/2797, Loss: 0.1473, Train Acc: 94.57%
+Batch 685/2797, Loss: 0.1473, Train Acc: 94.57%
+Batch 690/2797, Loss: 0.1474, Train Acc: 94.56%
+Batch 695/2797, Loss: 0.1471, Train Acc: 94.58%
+Batch 700/2797, Loss: 0.1473, Train Acc: 94.58%
+Batch 705/2797, Loss: 0.1476, Train Acc: 94.57%
+Batch 710/2797, Loss: 0.1478, Train Acc: 94.57%
+Batch 715/2797, Loss: 0.1478, Train Acc: 94.57%
+Batch 720/2797, Loss: 0.1477, Train Acc: 94.57%
+Batch 725/2797, Loss: 0.1476, Train Acc: 94.57%
+Batch 730/2797, Loss: 0.1476, Train Acc: 94.57%
+Batch 735/2797, Loss: 0.1476, Train Acc: 94.57%
+Batch 740/2797, Loss: 0.1476, Train Acc: 94.57%
+Batch 745/2797, Loss: 0.1476, Train Acc: 94.56%
+Batch 750/2797, Loss: 0.1476, Train Acc: 94.56%
+Batch 755/2797, Loss: 0.1477, Train Acc: 94.55%
+Batch 760/2797, Loss: 0.1479, Train Acc: 94.55%
+Batch 765/2797, Loss: 0.1481, Train Acc: 94.54%
+Batch 770/2797, Loss: 0.1481, Train Acc: 94.54%
+Batch 775/2797, Loss: 0.1480, Train Acc: 94.55%
+Batch 780/2797, Loss: 0.1481, Train Acc: 94.54%
+Batch 785/2797, Loss: 0.1481, Train Acc: 94.55%
+Batch 790/2797, Loss: 0.1480, Train Acc: 94.55%
+Batch 795/2797, Loss: 0.1480, Train Acc: 94.54%
+Batch 800/2797, Loss: 0.1479, Train Acc: 94.54%
+Batch 805/2797, Loss: 0.1478, Train Acc: 94.55%
+Batch 810/2797, Loss: 0.1478, Train Acc: 94.55%
+Batch 815/2797, Loss: 0.1477, Train Acc: 94.55%
+Batch 820/2797, Loss: 0.1477, Train Acc: 94.55%
+Batch 825/2797, Loss: 0.1477, Train Acc: 94.54%
+Batch 830/2797, Loss: 0.1478, Train Acc: 94.54%
+Batch 835/2797, Loss: 0.1478, Train Acc: 94.53%
+Batch 840/2797, Loss: 0.1479, Train Acc: 94.53%
+Batch 845/2797, Loss: 0.1480, Train Acc: 94.53%
+Batch 850/2797, Loss: 0.1479, Train Acc: 94.53%
+Batch 855/2797, Loss: 0.1482, Train Acc: 94.52%
+Batch 860/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 865/2797, Loss: 0.1482, Train Acc: 94.51%
+Batch 870/2797, Loss: 0.1482, Train Acc: 94.52%
+Batch 875/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 880/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 885/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 890/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 895/2797, Loss: 0.1483, Train Acc: 94.50%
+Batch 900/2797, Loss: 0.1484, Train Acc: 94.50%
+Batch 905/2797, Loss: 0.1486, Train Acc: 94.49%
+Batch 910/2797, Loss: 0.1487, Train Acc: 94.49%
+Batch 915/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 920/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 925/2797, Loss: 0.1487, Train Acc: 94.49%
+Batch 930/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 935/2797, Loss: 0.1488, Train Acc: 94.47%
+Batch 940/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 945/2797, Loss: 0.1486, Train Acc: 94.48%
+Batch 950/2797, Loss: 0.1486, Train Acc: 94.48%
+Batch 955/2797, Loss: 0.1486, Train Acc: 94.48%
+Batch 960/2797, Loss: 0.1487, Train Acc: 94.48%
+Batch 965/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 970/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 975/2797, Loss: 0.1488, Train Acc: 94.46%
+Batch 980/2797, Loss: 0.1489, Train Acc: 94.46%
+Batch 985/2797, Loss: 0.1488, Train Acc: 94.46%
+Batch 990/2797, Loss: 0.1489, Train Acc: 94.46%
+Batch 995/2797, Loss: 0.1489, Train Acc: 94.46%
+Batch 1000/2797, Loss: 0.1489, Train Acc: 94.46%
+Batch 1005/2797, Loss: 0.1489, Train Acc: 94.46%
+Batch 1010/2797, Loss: 0.1487, Train Acc: 94.47%
+Batch 1015/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 1020/2797, Loss: 0.1489, Train Acc: 94.46%
+Batch 1025/2797, Loss: 0.1488, Train Acc: 94.47%
+Batch 1030/2797, Loss: 0.1488, Train Acc: 94.47%
+Batch 1035/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 1040/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 1045/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 1050/2797, Loss: 0.1488, Train Acc: 94.47%
+Batch 1055/2797, Loss: 0.1488, Train Acc: 94.47%
+Batch 1060/2797, Loss: 0.1488, Train Acc: 94.47%
+Batch 1065/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 1070/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 1075/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 1080/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 1085/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 1090/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1095/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 1100/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1105/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 1110/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 1115/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 1120/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1125/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1130/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 1135/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 1140/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 1145/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1150/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1155/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1160/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 1165/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1170/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 1175/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 1180/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 1185/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1190/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 1195/2797, Loss: 0.1489, Train Acc: 94.46%
+Batch 1200/2797, Loss: 0.1490, Train Acc: 94.45%
+Batch 1205/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1210/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 1215/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 1220/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 1225/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 1230/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 1235/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1240/2797, Loss: 0.1490, Train Acc: 94.45%
+Batch 1245/2797, Loss: 0.1490, Train Acc: 94.45%
+Batch 1250/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1255/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 1260/2797, Loss: 0.1488, Train Acc: 94.46%
+Batch 1265/2797, Loss: 0.1489, Train Acc: 94.46%
+Batch 1270/2797, Loss: 0.1489, Train Acc: 94.46%
+Batch 1275/2797, Loss: 0.1488, Train Acc: 94.46%
+Batch 1280/2797, Loss: 0.1489, Train Acc: 94.46%
+Batch 1285/2797, Loss: 0.1489, Train Acc: 94.46%
+Batch 1290/2797, Loss: 0.1490, Train Acc: 94.45%
+Batch 1295/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1300/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 1305/2797, Loss: 0.1489, Train Acc: 94.46%
+Batch 1310/2797, Loss: 0.1488, Train Acc: 94.47%
+Batch 1315/2797, Loss: 0.1487, Train Acc: 94.47%
+Batch 1320/2797, Loss: 0.1488, Train Acc: 94.47%
+Batch 1325/2797, Loss: 0.1488, Train Acc: 94.47%
+Batch 1330/2797, Loss: 0.1488, Train Acc: 94.47%
+Batch 1335/2797, Loss: 0.1489, Train Acc: 94.46%
+Batch 1340/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 1345/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 1350/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 1355/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1360/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1365/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1370/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1375/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1380/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1385/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1390/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 1395/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1400/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 1405/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 1410/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1415/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 1420/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1425/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1430/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 1435/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1440/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1445/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1450/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1455/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1460/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1465/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1470/2797, Loss: 0.1490, Train Acc: 94.45%
+Batch 1475/2797, Loss: 0.1490, Train Acc: 94.45%
+Batch 1480/2797, Loss: 0.1490, Train Acc: 94.45%
+Batch 1485/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1490/2797, Loss: 0.1490, Train Acc: 94.45%
+Batch 1495/2797, Loss: 0.1489, Train Acc: 94.45%
+Batch 1500/2797, Loss: 0.1489, Train Acc: 94.46%
+Batch 1505/2797, Loss: 0.1488, Train Acc: 94.46%
+Batch 1510/2797, Loss: 0.1488, Train Acc: 94.46%
+Batch 1515/2797, Loss: 0.1489, Train Acc: 94.45%
+Batch 1520/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1525/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 1530/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1535/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1540/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1545/2797, Loss: 0.1493, Train Acc: 94.44%
+Batch 1550/2797, Loss: 0.1493, Train Acc: 94.44%
+Batch 1555/2797, Loss: 0.1493, Train Acc: 94.44%
+Batch 1560/2797, Loss: 0.1494, Train Acc: 94.43%
+Batch 1565/2797, Loss: 0.1495, Train Acc: 94.43%
+Batch 1570/2797, Loss: 0.1494, Train Acc: 94.43%
+Batch 1575/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 1580/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 1585/2797, Loss: 0.1493, Train Acc: 94.44%
+Batch 1590/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 1595/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 1600/2797, Loss: 0.1496, Train Acc: 94.44%
+Batch 1605/2797, Loss: 0.1496, Train Acc: 94.43%
+Batch 1610/2797, Loss: 0.1496, Train Acc: 94.43%
+Batch 1615/2797, Loss: 0.1496, Train Acc: 94.43%
+Batch 1620/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 1625/2797, Loss: 0.1495, Train Acc: 94.43%
+Batch 1630/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 1635/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 1640/2797, Loss: 0.1496, Train Acc: 94.43%
+Batch 1645/2797, Loss: 0.1496, Train Acc: 94.43%
+Batch 1650/2797, Loss: 0.1496, Train Acc: 94.43%
+Batch 1655/2797, Loss: 0.1497, Train Acc: 94.43%
+Batch 1660/2797, Loss: 0.1497, Train Acc: 94.43%
+Batch 1665/2797, Loss: 0.1496, Train Acc: 94.43%
+Batch 1670/2797, Loss: 0.1497, Train Acc: 94.43%
+Batch 1675/2797, Loss: 0.1496, Train Acc: 94.43%
+Batch 1680/2797, Loss: 0.1497, Train Acc: 94.42%
+Batch 1685/2797, Loss: 0.1497, Train Acc: 94.42%
+Batch 1690/2797, Loss: 0.1497, Train Acc: 94.43%
+Batch 1695/2797, Loss: 0.1496, Train Acc: 94.43%
+Batch 1700/2797, Loss: 0.1497, Train Acc: 94.42%
+Batch 1705/2797, Loss: 0.1497, Train Acc: 94.42%
+Batch 1710/2797, Loss: 0.1497, Train Acc: 94.42%
+Batch 1715/2797, Loss: 0.1497, Train Acc: 94.42%
+Batch 1720/2797, Loss: 0.1497, Train Acc: 94.42%
+Batch 1725/2797, Loss: 0.1498, Train Acc: 94.42%
+Batch 1730/2797, Loss: 0.1498, Train Acc: 94.42%
+Batch 1735/2797, Loss: 0.1498, Train Acc: 94.42%
+Batch 1740/2797, Loss: 0.1499, Train Acc: 94.42%
+Batch 1745/2797, Loss: 0.1499, Train Acc: 94.42%
+Batch 1750/2797, Loss: 0.1499, Train Acc: 94.42%
+Batch 1755/2797, Loss: 0.1498, Train Acc: 94.42%
+Batch 1760/2797, Loss: 0.1497, Train Acc: 94.43%
+Batch 1765/2797, Loss: 0.1497, Train Acc: 94.43%
+Batch 1770/2797, Loss: 0.1498, Train Acc: 94.43%
+Batch 1775/2797, Loss: 0.1497, Train Acc: 94.43%
+Batch 1780/2797, Loss: 0.1497, Train Acc: 94.43%
+Batch 1785/2797, Loss: 0.1497, Train Acc: 94.43%
+Batch 1790/2797, Loss: 0.1498, Train Acc: 94.43%
+Batch 1795/2797, Loss: 0.1498, Train Acc: 94.42%
+Batch 1800/2797, Loss: 0.1498, Train Acc: 94.43%
+Batch 1805/2797, Loss: 0.1499, Train Acc: 94.42%
+Batch 1810/2797, Loss: 0.1498, Train Acc: 94.42%
+Batch 1815/2797, Loss: 0.1498, Train Acc: 94.43%
+Batch 1820/2797, Loss: 0.1498, Train Acc: 94.42%
+Batch 1825/2797, Loss: 0.1499, Train Acc: 94.42%
+Batch 1830/2797, Loss: 0.1499, Train Acc: 94.42%
+Batch 1835/2797, Loss: 0.1499, Train Acc: 94.42%
+Batch 1840/2797, Loss: 0.1500, Train Acc: 94.42%
+Batch 1845/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 1850/2797, Loss: 0.1498, Train Acc: 94.43%
+Batch 1855/2797, Loss: 0.1498, Train Acc: 94.43%
+Batch 1860/2797, Loss: 0.1498, Train Acc: 94.43%
+Batch 1865/2797, Loss: 0.1498, Train Acc: 94.43%
+Batch 1870/2797, Loss: 0.1498, Train Acc: 94.43%
+Batch 1875/2797, Loss: 0.1498, Train Acc: 94.43%
+Batch 1880/2797, Loss: 0.1498, Train Acc: 94.43%
+Batch 1885/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 1890/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 1895/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 1900/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 1905/2797, Loss: 0.1499, Train Acc: 94.44%
+Batch 1910/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 1915/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 1920/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 1925/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 1930/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 1935/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 1940/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 1945/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 1950/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 1955/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 1960/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 1965/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 1970/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 1975/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 1980/2797, Loss: 0.1497, Train Acc: 94.45%
+Batch 1985/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 1990/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 1995/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2000/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2005/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2010/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2015/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2020/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2025/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2030/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2035/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2040/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2045/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2050/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2055/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2060/2797, Loss: 0.1496, Train Acc: 94.44%
+Batch 2065/2797, Loss: 0.1496, Train Acc: 94.44%
+Batch 2070/2797, Loss: 0.1496, Train Acc: 94.44%
+Batch 2075/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2080/2797, Loss: 0.1496, Train Acc: 94.44%
+Batch 2085/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2090/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2095/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2100/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2105/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2110/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2115/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2120/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2125/2797, Loss: 0.1498, Train Acc: 94.43%
+Batch 2130/2797, Loss: 0.1499, Train Acc: 94.44%
+Batch 2135/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2140/2797, Loss: 0.1499, Train Acc: 94.44%
+Batch 2145/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2150/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2155/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2160/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2165/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2170/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2175/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2180/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2185/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2190/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2195/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2200/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2205/2797, Loss: 0.1501, Train Acc: 94.42%
+Batch 2210/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2215/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2220/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2225/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2230/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2235/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2240/2797, Loss: 0.1500, Train Acc: 94.42%
+Batch 2245/2797, Loss: 0.1500, Train Acc: 94.42%
+Batch 2250/2797, Loss: 0.1500, Train Acc: 94.42%
+Batch 2255/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2260/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2265/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2270/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2275/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2280/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2285/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2290/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2295/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2300/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2305/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2310/2797, Loss: 0.1501, Train Acc: 94.42%
+Batch 2315/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2320/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2325/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2330/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2335/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2340/2797, Loss: 0.1499, Train Acc: 94.44%
+Batch 2345/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2350/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2355/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2360/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2365/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2370/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2375/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2380/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2385/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2390/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2395/2797, Loss: 0.1501, Train Acc: 94.42%
+Batch 2400/2797, Loss: 0.1501, Train Acc: 94.43%
+Batch 2405/2797, Loss: 0.1501, Train Acc: 94.43%
+Batch 2410/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2415/2797, Loss: 0.1501, Train Acc: 94.43%
+Batch 2420/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2425/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2430/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2435/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2440/2797, Loss: 0.1501, Train Acc: 94.43%
+Batch 2445/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2450/2797, Loss: 0.1500, Train Acc: 94.44%
+Batch 2455/2797, Loss: 0.1500, Train Acc: 94.44%
+Batch 2460/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2465/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2470/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2475/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2480/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2485/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2490/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2495/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2500/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2505/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2510/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2515/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2520/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2525/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2530/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2535/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2540/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2545/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2550/2797, Loss: 0.1499, Train Acc: 94.44%
+Batch 2555/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2560/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2565/2797, Loss: 0.1500, Train Acc: 94.43%
+Batch 2570/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2575/2797, Loss: 0.1499, Train Acc: 94.44%
+Batch 2580/2797, Loss: 0.1499, Train Acc: 94.43%
+Batch 2585/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2590/2797, Loss: 0.1498, Train Acc: 94.43%
+Batch 2595/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2600/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2605/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2610/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2615/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2620/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2625/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2630/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2635/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2640/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2645/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2650/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2655/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2660/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2665/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2670/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2675/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2680/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2685/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2690/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2695/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2700/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2705/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2710/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2715/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2720/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2725/2797, Loss: 0.1498, Train Acc: 94.43%
+Batch 2730/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2735/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2740/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2745/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2750/2797, Loss: 0.1497, Train Acc: 94.44%
+Batch 2755/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2760/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2765/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2770/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2775/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2780/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2785/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2790/2797, Loss: 0.1498, Train Acc: 94.44%
+Batch 2795/2797, Loss: 0.1498, Train Acc: 94.44%
+Learning Rate: 0.000000
+Epoch 23/50, Average Loss: 0.1499, Train Accuracy: 94.44%
+Validation Batch 5/700, Validation Accuracy: 94.84%
+Validation Batch 10/700, Validation Accuracy: 94.06%
+Validation Batch 15/700, Validation Accuracy: 93.39%
+Validation Batch 20/700, Validation Accuracy: 92.77%
+Validation Batch 25/700, Validation Accuracy: 92.53%
+Validation Batch 30/700, Validation Accuracy: 92.53%
+Validation Batch 35/700, Validation Accuracy: 92.52%
+Validation Batch 40/700, Validation Accuracy: 92.60%
+Validation Batch 45/700, Validation Accuracy: 92.55%
+Validation Batch 50/700, Validation Accuracy: 92.78%
+Validation Batch 55/700, Validation Accuracy: 92.78%
+Validation Batch 60/700, Validation Accuracy: 92.60%
+Validation Batch 65/700, Validation Accuracy: 92.56%
+Validation Batch 70/700, Validation Accuracy: 92.60%
+Validation Batch 75/700, Validation Accuracy: 92.58%
+Validation Batch 80/700, Validation Accuracy: 92.43%
+Validation Batch 85/700, Validation Accuracy: 92.38%
+Validation Batch 90/700, Validation Accuracy: 92.34%
+Validation Batch 95/700, Validation Accuracy: 92.26%
+Validation Batch 100/700, Validation Accuracy: 92.23%
+Validation Batch 105/700, Validation Accuracy: 92.25%
+Validation Batch 110/700, Validation Accuracy: 92.24%
+Validation Batch 115/700, Validation Accuracy: 92.25%
+Validation Batch 120/700, Validation Accuracy: 92.23%
+Validation Batch 125/700, Validation Accuracy: 92.24%
+Validation Batch 130/700, Validation Accuracy: 92.22%
+Validation Batch 135/700, Validation Accuracy: 92.14%
+Validation Batch 140/700, Validation Accuracy: 92.09%
+Validation Batch 145/700, Validation Accuracy: 92.07%
+Validation Batch 150/700, Validation Accuracy: 92.14%
+Validation Batch 155/700, Validation Accuracy: 92.14%
+Validation Batch 160/700, Validation Accuracy: 92.13%
+Validation Batch 165/700, Validation Accuracy: 92.15%
+Validation Batch 170/700, Validation Accuracy: 92.18%
+Validation Batch 175/700, Validation Accuracy: 92.21%
+Validation Batch 180/700, Validation Accuracy: 92.24%
+Validation Batch 185/700, Validation Accuracy: 92.25%
+Validation Batch 190/700, Validation Accuracy: 92.25%
+Validation Batch 195/700, Validation Accuracy: 92.24%
+Validation Batch 200/700, Validation Accuracy: 92.23%
+Validation Batch 205/700, Validation Accuracy: 92.23%
+Validation Batch 210/700, Validation Accuracy: 92.24%
+Validation Batch 215/700, Validation Accuracy: 92.25%
+Validation Batch 220/700, Validation Accuracy: 92.21%
+Validation Batch 225/700, Validation Accuracy: 92.25%
+Validation Batch 230/700, Validation Accuracy: 92.23%
+Validation Batch 235/700, Validation Accuracy: 92.21%
+Validation Batch 240/700, Validation Accuracy: 92.20%
+Validation Batch 245/700, Validation Accuracy: 92.25%
+Validation Batch 250/700, Validation Accuracy: 92.23%
+Validation Batch 255/700, Validation Accuracy: 92.26%
+Validation Batch 260/700, Validation Accuracy: 92.28%
+Validation Batch 265/700, Validation Accuracy: 92.25%
+Validation Batch 270/700, Validation Accuracy: 92.27%
+Validation Batch 275/700, Validation Accuracy: 92.26%
+Validation Batch 280/700, Validation Accuracy: 92.26%
+Validation Batch 285/700, Validation Accuracy: 92.28%
+Validation Batch 290/700, Validation Accuracy: 92.30%
+Validation Batch 295/700, Validation Accuracy: 92.34%
+Validation Batch 300/700, Validation Accuracy: 92.34%
+Validation Batch 305/700, Validation Accuracy: 92.36%
+Validation Batch 310/700, Validation Accuracy: 92.33%
+Validation Batch 315/700, Validation Accuracy: 92.35%
+Validation Batch 320/700, Validation Accuracy: 92.33%
+Validation Batch 325/700, Validation Accuracy: 92.32%
+Validation Batch 330/700, Validation Accuracy: 92.32%
+Validation Batch 335/700, Validation Accuracy: 92.33%
+Validation Batch 340/700, Validation Accuracy: 92.34%
+Validation Batch 345/700, Validation Accuracy: 92.33%
+Validation Batch 350/700, Validation Accuracy: 92.33%
+Validation Batch 355/700, Validation Accuracy: 92.30%
+Validation Batch 360/700, Validation Accuracy: 92.32%
+Validation Batch 365/700, Validation Accuracy: 92.30%
+Validation Batch 370/700, Validation Accuracy: 92.29%
+Validation Batch 375/700, Validation Accuracy: 92.29%
+Validation Batch 380/700, Validation Accuracy: 92.30%
+Validation Batch 385/700, Validation Accuracy: 92.31%
+Validation Batch 390/700, Validation Accuracy: 92.27%
+Validation Batch 395/700, Validation Accuracy: 92.26%
+Validation Batch 400/700, Validation Accuracy: 92.26%
+Validation Batch 405/700, Validation Accuracy: 92.24%
+Validation Batch 410/700, Validation Accuracy: 92.23%
+Validation Batch 415/700, Validation Accuracy: 92.24%
+Validation Batch 420/700, Validation Accuracy: 92.25%
+Validation Batch 425/700, Validation Accuracy: 92.25%
+Validation Batch 430/700, Validation Accuracy: 92.27%
+Validation Batch 435/700, Validation Accuracy: 92.27%
+Validation Batch 440/700, Validation Accuracy: 92.25%
+Validation Batch 445/700, Validation Accuracy: 92.26%
+Validation Batch 450/700, Validation Accuracy: 92.29%
+Validation Batch 455/700, Validation Accuracy: 92.30%
+Validation Batch 460/700, Validation Accuracy: 92.31%
+Validation Batch 465/700, Validation Accuracy: 92.31%
+Validation Batch 470/700, Validation Accuracy: 92.31%
+Validation Batch 475/700, Validation Accuracy: 92.28%
+Validation Batch 480/700, Validation Accuracy: 92.30%
+Validation Batch 485/700, Validation Accuracy: 92.30%
+Validation Batch 490/700, Validation Accuracy: 92.31%
+Validation Batch 495/700, Validation Accuracy: 92.31%
+Validation Batch 500/700, Validation Accuracy: 92.31%
+Validation Batch 505/700, Validation Accuracy: 92.32%
+Validation Batch 510/700, Validation Accuracy: 92.33%
+Validation Batch 515/700, Validation Accuracy: 92.34%
+Validation Batch 520/700, Validation Accuracy: 92.34%
+Validation Batch 525/700, Validation Accuracy: 92.32%
+Validation Batch 530/700, Validation Accuracy: 92.33%
+Validation Batch 535/700, Validation Accuracy: 92.31%
+Validation Batch 540/700, Validation Accuracy: 92.29%
+Validation Batch 545/700, Validation Accuracy: 92.29%
+Validation Batch 550/700, Validation Accuracy: 92.29%
+Validation Batch 555/700, Validation Accuracy: 92.27%
+Validation Batch 560/700, Validation Accuracy: 92.25%
+Validation Batch 565/700, Validation Accuracy: 92.24%
+Validation Batch 570/700, Validation Accuracy: 92.24%
+Validation Batch 575/700, Validation Accuracy: 92.23%
+Validation Batch 580/700, Validation Accuracy: 92.24%
+Validation Batch 585/700, Validation Accuracy: 92.25%
+Validation Batch 590/700, Validation Accuracy: 92.24%
+Validation Batch 595/700, Validation Accuracy: 92.25%
+Validation Batch 600/700, Validation Accuracy: 92.25%
+Validation Batch 605/700, Validation Accuracy: 92.25%
+Validation Batch 610/700, Validation Accuracy: 92.26%
+Validation Batch 615/700, Validation Accuracy: 92.23%
+Validation Batch 620/700, Validation Accuracy: 92.22%
+Validation Batch 625/700, Validation Accuracy: 92.22%
+Validation Batch 630/700, Validation Accuracy: 92.22%
+Validation Batch 635/700, Validation Accuracy: 92.20%
+Validation Batch 640/700, Validation Accuracy: 92.19%
+Validation Batch 645/700, Validation Accuracy: 92.21%
+Validation Batch 650/700, Validation Accuracy: 92.22%
+Validation Batch 655/700, Validation Accuracy: 92.23%
+Validation Batch 660/700, Validation Accuracy: 92.23%
+Validation Batch 665/700, Validation Accuracy: 92.23%
+Validation Batch 670/700, Validation Accuracy: 92.22%
+Validation Batch 675/700, Validation Accuracy: 92.23%
+Validation Batch 680/700, Validation Accuracy: 92.24%
+Validation Batch 685/700, Validation Accuracy: 92.23%
+Validation Batch 690/700, Validation Accuracy: 92.23%
+Validation Batch 695/700, Validation Accuracy: 92.23%
+Validation Batch 700/700, Validation Accuracy: 92.24%
+Validation Accuracy for Epoch 23: 92.24%
+
+--- Epoch 24/50 ---
+Batch 5/2797, Loss: 0.1445, Train Acc: 95.00%
+Batch 10/2797, Loss: 0.1332, Train Acc: 95.23%
+Batch 15/2797, Loss: 0.1357, Train Acc: 95.21%
+Batch 20/2797, Loss: 0.1426, Train Acc: 94.80%
+Batch 25/2797, Loss: 0.1382, Train Acc: 94.97%
+Batch 30/2797, Loss: 0.1425, Train Acc: 94.84%
+Batch 35/2797, Loss: 0.1454, Train Acc: 94.62%
+Batch 40/2797, Loss: 0.1490, Train Acc: 94.53%
+Batch 45/2797, Loss: 0.1506, Train Acc: 94.53%
+Batch 50/2797, Loss: 0.1499, Train Acc: 94.58%
+Batch 55/2797, Loss: 0.1464, Train Acc: 94.69%
+Batch 60/2797, Loss: 0.1474, Train Acc: 94.57%
+Batch 65/2797, Loss: 0.1506, Train Acc: 94.36%
+Batch 70/2797, Loss: 0.1500, Train Acc: 94.41%
+Batch 75/2797, Loss: 0.1509, Train Acc: 94.38%
+Batch 80/2797, Loss: 0.1511, Train Acc: 94.32%
+Batch 85/2797, Loss: 0.1509, Train Acc: 94.37%
+Batch 90/2797, Loss: 0.1489, Train Acc: 94.44%
+Batch 95/2797, Loss: 0.1473, Train Acc: 94.51%
+Batch 100/2797, Loss: 0.1476, Train Acc: 94.53%
+Batch 105/2797, Loss: 0.1484, Train Acc: 94.55%
+Batch 110/2797, Loss: 0.1482, Train Acc: 94.57%
+Batch 115/2797, Loss: 0.1489, Train Acc: 94.59%
+Batch 120/2797, Loss: 0.1495, Train Acc: 94.53%
+Batch 125/2797, Loss: 0.1494, Train Acc: 94.52%
+Batch 130/2797, Loss: 0.1480, Train Acc: 94.53%
+Batch 135/2797, Loss: 0.1471, Train Acc: 94.58%
+Batch 140/2797, Loss: 0.1473, Train Acc: 94.56%
+Batch 145/2797, Loss: 0.1475, Train Acc: 94.54%
+Batch 150/2797, Loss: 0.1476, Train Acc: 94.52%
+Batch 155/2797, Loss: 0.1464, Train Acc: 94.56%
+Batch 160/2797, Loss: 0.1464, Train Acc: 94.55%
+Batch 165/2797, Loss: 0.1458, Train Acc: 94.57%
+Batch 170/2797, Loss: 0.1463, Train Acc: 94.55%
+Batch 175/2797, Loss: 0.1465, Train Acc: 94.54%
+Batch 180/2797, Loss: 0.1464, Train Acc: 94.56%
+Batch 185/2797, Loss: 0.1462, Train Acc: 94.57%
+Batch 190/2797, Loss: 0.1459, Train Acc: 94.57%
+Batch 195/2797, Loss: 0.1458, Train Acc: 94.59%
+Batch 200/2797, Loss: 0.1455, Train Acc: 94.60%
+Batch 205/2797, Loss: 0.1454, Train Acc: 94.61%
+Batch 210/2797, Loss: 0.1447, Train Acc: 94.66%
+Batch 215/2797, Loss: 0.1446, Train Acc: 94.66%
+Batch 220/2797, Loss: 0.1452, Train Acc: 94.66%
+Batch 225/2797, Loss: 0.1459, Train Acc: 94.61%
+Batch 230/2797, Loss: 0.1462, Train Acc: 94.58%
+Batch 235/2797, Loss: 0.1465, Train Acc: 94.57%
+Batch 240/2797, Loss: 0.1460, Train Acc: 94.58%
+Batch 245/2797, Loss: 0.1462, Train Acc: 94.58%
+Batch 250/2797, Loss: 0.1461, Train Acc: 94.57%
+Batch 255/2797, Loss: 0.1460, Train Acc: 94.59%
+Batch 260/2797, Loss: 0.1457, Train Acc: 94.61%
+Batch 265/2797, Loss: 0.1462, Train Acc: 94.60%
+Batch 270/2797, Loss: 0.1464, Train Acc: 94.61%
+Batch 275/2797, Loss: 0.1466, Train Acc: 94.60%
+Batch 280/2797, Loss: 0.1463, Train Acc: 94.60%
+Batch 285/2797, Loss: 0.1464, Train Acc: 94.59%
+Batch 290/2797, Loss: 0.1463, Train Acc: 94.60%
+Batch 295/2797, Loss: 0.1459, Train Acc: 94.62%
+Batch 300/2797, Loss: 0.1464, Train Acc: 94.61%
+Batch 305/2797, Loss: 0.1465, Train Acc: 94.60%
+Batch 310/2797, Loss: 0.1462, Train Acc: 94.62%
+Batch 315/2797, Loss: 0.1462, Train Acc: 94.62%
+Batch 320/2797, Loss: 0.1464, Train Acc: 94.61%
+Batch 325/2797, Loss: 0.1464, Train Acc: 94.61%
+Batch 330/2797, Loss: 0.1463, Train Acc: 94.62%
+Batch 335/2797, Loss: 0.1468, Train Acc: 94.60%
+Batch 340/2797, Loss: 0.1469, Train Acc: 94.59%
+Batch 345/2797, Loss: 0.1471, Train Acc: 94.58%
+Batch 350/2797, Loss: 0.1469, Train Acc: 94.59%
+Batch 355/2797, Loss: 0.1468, Train Acc: 94.60%
+Batch 360/2797, Loss: 0.1468, Train Acc: 94.60%
+Batch 365/2797, Loss: 0.1467, Train Acc: 94.61%
+Batch 370/2797, Loss: 0.1469, Train Acc: 94.60%
+Batch 375/2797, Loss: 0.1472, Train Acc: 94.59%
+Batch 380/2797, Loss: 0.1477, Train Acc: 94.57%
+Batch 385/2797, Loss: 0.1478, Train Acc: 94.56%
+Batch 390/2797, Loss: 0.1482, Train Acc: 94.54%
+Batch 395/2797, Loss: 0.1477, Train Acc: 94.55%
+Batch 400/2797, Loss: 0.1477, Train Acc: 94.56%
+Batch 405/2797, Loss: 0.1476, Train Acc: 94.57%
+Batch 410/2797, Loss: 0.1478, Train Acc: 94.57%
+Batch 415/2797, Loss: 0.1480, Train Acc: 94.57%
+Batch 420/2797, Loss: 0.1480, Train Acc: 94.57%
+Batch 425/2797, Loss: 0.1480, Train Acc: 94.57%
+Batch 430/2797, Loss: 0.1480, Train Acc: 94.58%
+Batch 435/2797, Loss: 0.1478, Train Acc: 94.59%
+Batch 440/2797, Loss: 0.1477, Train Acc: 94.59%
+Batch 445/2797, Loss: 0.1473, Train Acc: 94.60%
+Batch 450/2797, Loss: 0.1474, Train Acc: 94.60%
+Batch 455/2797, Loss: 0.1475, Train Acc: 94.60%
+Batch 460/2797, Loss: 0.1472, Train Acc: 94.61%
+Batch 465/2797, Loss: 0.1472, Train Acc: 94.61%
+Batch 470/2797, Loss: 0.1469, Train Acc: 94.64%
+Batch 475/2797, Loss: 0.1467, Train Acc: 94.65%
+Batch 480/2797, Loss: 0.1466, Train Acc: 94.65%
+Batch 485/2797, Loss: 0.1467, Train Acc: 94.64%
+Batch 490/2797, Loss: 0.1466, Train Acc: 94.64%
+Batch 495/2797, Loss: 0.1471, Train Acc: 94.62%
+Batch 500/2797, Loss: 0.1470, Train Acc: 94.63%
+Batch 505/2797, Loss: 0.1467, Train Acc: 94.64%
+Batch 510/2797, Loss: 0.1467, Train Acc: 94.64%
+Batch 515/2797, Loss: 0.1466, Train Acc: 94.64%
+Batch 520/2797, Loss: 0.1466, Train Acc: 94.64%
+Batch 525/2797, Loss: 0.1465, Train Acc: 94.65%
+Batch 530/2797, Loss: 0.1463, Train Acc: 94.65%
+Batch 535/2797, Loss: 0.1464, Train Acc: 94.63%
+Batch 540/2797, Loss: 0.1463, Train Acc: 94.64%
+Batch 545/2797, Loss: 0.1468, Train Acc: 94.62%
+Batch 550/2797, Loss: 0.1473, Train Acc: 94.60%
+Batch 555/2797, Loss: 0.1471, Train Acc: 94.61%
+Batch 560/2797, Loss: 0.1470, Train Acc: 94.61%
+Batch 565/2797, Loss: 0.1471, Train Acc: 94.60%
+Batch 570/2797, Loss: 0.1472, Train Acc: 94.59%
+Batch 575/2797, Loss: 0.1475, Train Acc: 94.58%
+Batch 580/2797, Loss: 0.1475, Train Acc: 94.59%
+Batch 585/2797, Loss: 0.1478, Train Acc: 94.59%
+Batch 590/2797, Loss: 0.1477, Train Acc: 94.59%
+Batch 595/2797, Loss: 0.1478, Train Acc: 94.58%
+Batch 600/2797, Loss: 0.1476, Train Acc: 94.59%
+Batch 605/2797, Loss: 0.1475, Train Acc: 94.60%
+Batch 610/2797, Loss: 0.1476, Train Acc: 94.60%
+Batch 615/2797, Loss: 0.1476, Train Acc: 94.60%
+Batch 620/2797, Loss: 0.1478, Train Acc: 94.59%
+Batch 625/2797, Loss: 0.1477, Train Acc: 94.59%
+Batch 630/2797, Loss: 0.1480, Train Acc: 94.58%
+Batch 635/2797, Loss: 0.1478, Train Acc: 94.59%
+Batch 640/2797, Loss: 0.1480, Train Acc: 94.59%
+Batch 645/2797, Loss: 0.1478, Train Acc: 94.59%
+Batch 650/2797, Loss: 0.1480, Train Acc: 94.59%
+Batch 655/2797, Loss: 0.1480, Train Acc: 94.59%
+Batch 660/2797, Loss: 0.1479, Train Acc: 94.60%
+Batch 665/2797, Loss: 0.1477, Train Acc: 94.60%
+Batch 670/2797, Loss: 0.1477, Train Acc: 94.59%
+Batch 675/2797, Loss: 0.1478, Train Acc: 94.59%
+Batch 680/2797, Loss: 0.1480, Train Acc: 94.58%
+Batch 685/2797, Loss: 0.1480, Train Acc: 94.58%
+Batch 690/2797, Loss: 0.1479, Train Acc: 94.58%
+Batch 695/2797, Loss: 0.1479, Train Acc: 94.58%
+Batch 700/2797, Loss: 0.1479, Train Acc: 94.58%
+Batch 705/2797, Loss: 0.1479, Train Acc: 94.58%
+Batch 710/2797, Loss: 0.1480, Train Acc: 94.57%
+Batch 715/2797, Loss: 0.1481, Train Acc: 94.57%
+Batch 720/2797, Loss: 0.1481, Train Acc: 94.57%
+Batch 725/2797, Loss: 0.1480, Train Acc: 94.57%
+Batch 730/2797, Loss: 0.1480, Train Acc: 94.57%
+Batch 735/2797, Loss: 0.1480, Train Acc: 94.57%
+Batch 740/2797, Loss: 0.1479, Train Acc: 94.57%
+Batch 745/2797, Loss: 0.1482, Train Acc: 94.56%
+Batch 750/2797, Loss: 0.1483, Train Acc: 94.55%
+Batch 755/2797, Loss: 0.1483, Train Acc: 94.55%
+Batch 760/2797, Loss: 0.1484, Train Acc: 94.55%
+Batch 765/2797, Loss: 0.1485, Train Acc: 94.54%
+Batch 770/2797, Loss: 0.1484, Train Acc: 94.54%
+Batch 775/2797, Loss: 0.1487, Train Acc: 94.54%
+Batch 780/2797, Loss: 0.1487, Train Acc: 94.53%
+Batch 785/2797, Loss: 0.1489, Train Acc: 94.53%
+Batch 790/2797, Loss: 0.1490, Train Acc: 94.52%
+Batch 795/2797, Loss: 0.1489, Train Acc: 94.53%
+Batch 800/2797, Loss: 0.1491, Train Acc: 94.52%
+Batch 805/2797, Loss: 0.1490, Train Acc: 94.52%
+Batch 810/2797, Loss: 0.1492, Train Acc: 94.52%
+Batch 815/2797, Loss: 0.1490, Train Acc: 94.52%
+Batch 820/2797, Loss: 0.1490, Train Acc: 94.52%
+Batch 825/2797, Loss: 0.1490, Train Acc: 94.52%
+Batch 830/2797, Loss: 0.1491, Train Acc: 94.52%
+Batch 835/2797, Loss: 0.1491, Train Acc: 94.52%
+Batch 840/2797, Loss: 0.1491, Train Acc: 94.51%
+Batch 845/2797, Loss: 0.1489, Train Acc: 94.52%
+Batch 850/2797, Loss: 0.1489, Train Acc: 94.52%
+Batch 855/2797, Loss: 0.1490, Train Acc: 94.51%
+Batch 860/2797, Loss: 0.1490, Train Acc: 94.51%
+Batch 865/2797, Loss: 0.1489, Train Acc: 94.52%
+Batch 870/2797, Loss: 0.1489, Train Acc: 94.52%
+Batch 875/2797, Loss: 0.1490, Train Acc: 94.51%
+Batch 880/2797, Loss: 0.1490, Train Acc: 94.51%
+Batch 885/2797, Loss: 0.1489, Train Acc: 94.52%
+Batch 890/2797, Loss: 0.1489, Train Acc: 94.52%
+Batch 895/2797, Loss: 0.1491, Train Acc: 94.51%
+Batch 900/2797, Loss: 0.1491, Train Acc: 94.51%
+Batch 905/2797, Loss: 0.1492, Train Acc: 94.50%
+Batch 910/2797, Loss: 0.1493, Train Acc: 94.50%
+Batch 915/2797, Loss: 0.1493, Train Acc: 94.50%
+Batch 920/2797, Loss: 0.1491, Train Acc: 94.50%
+Batch 925/2797, Loss: 0.1491, Train Acc: 94.50%
+Batch 930/2797, Loss: 0.1492, Train Acc: 94.50%
+Batch 935/2797, Loss: 0.1490, Train Acc: 94.51%
+Batch 940/2797, Loss: 0.1490, Train Acc: 94.51%
+Batch 945/2797, Loss: 0.1490, Train Acc: 94.50%
+Batch 950/2797, Loss: 0.1490, Train Acc: 94.50%
+Batch 955/2797, Loss: 0.1491, Train Acc: 94.50%
+Batch 960/2797, Loss: 0.1490, Train Acc: 94.51%
+Batch 965/2797, Loss: 0.1489, Train Acc: 94.51%
+Batch 970/2797, Loss: 0.1488, Train Acc: 94.52%
+Batch 975/2797, Loss: 0.1487, Train Acc: 94.52%
+Batch 980/2797, Loss: 0.1489, Train Acc: 94.51%
+Batch 985/2797, Loss: 0.1490, Train Acc: 94.51%
+Batch 990/2797, Loss: 0.1490, Train Acc: 94.51%
+Batch 995/2797, Loss: 0.1489, Train Acc: 94.51%
+Batch 1000/2797, Loss: 0.1488, Train Acc: 94.51%
+Batch 1005/2797, Loss: 0.1487, Train Acc: 94.51%
+Batch 1010/2797, Loss: 0.1488, Train Acc: 94.51%
+Batch 1015/2797, Loss: 0.1489, Train Acc: 94.52%
+Batch 1020/2797, Loss: 0.1489, Train Acc: 94.51%
+Batch 1025/2797, Loss: 0.1489, Train Acc: 94.51%
+Batch 1030/2797, Loss: 0.1490, Train Acc: 94.50%
+Batch 1035/2797, Loss: 0.1490, Train Acc: 94.51%
+Batch 1040/2797, Loss: 0.1489, Train Acc: 94.51%
+Batch 1045/2797, Loss: 0.1488, Train Acc: 94.51%
+Batch 1050/2797, Loss: 0.1488, Train Acc: 94.52%
+Batch 1055/2797, Loss: 0.1486, Train Acc: 94.52%
+Batch 1060/2797, Loss: 0.1486, Train Acc: 94.52%
+Batch 1065/2797, Loss: 0.1486, Train Acc: 94.52%
+Batch 1070/2797, Loss: 0.1486, Train Acc: 94.52%
+Batch 1075/2797, Loss: 0.1486, Train Acc: 94.51%
+Batch 1080/2797, Loss: 0.1485, Train Acc: 94.52%
+Batch 1085/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1090/2797, Loss: 0.1483, Train Acc: 94.52%
+Batch 1095/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1100/2797, Loss: 0.1485, Train Acc: 94.51%
+Batch 1105/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1110/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1115/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1120/2797, Loss: 0.1486, Train Acc: 94.51%
+Batch 1125/2797, Loss: 0.1487, Train Acc: 94.51%
+Batch 1130/2797, Loss: 0.1487, Train Acc: 94.51%
+Batch 1135/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1140/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1145/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1150/2797, Loss: 0.1483, Train Acc: 94.53%
+Batch 1155/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1160/2797, Loss: 0.1483, Train Acc: 94.53%
+Batch 1165/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1170/2797, Loss: 0.1483, Train Acc: 94.53%
+Batch 1175/2797, Loss: 0.1482, Train Acc: 94.53%
+Batch 1180/2797, Loss: 0.1482, Train Acc: 94.53%
+Batch 1185/2797, Loss: 0.1481, Train Acc: 94.53%
+Batch 1190/2797, Loss: 0.1482, Train Acc: 94.53%
+Batch 1195/2797, Loss: 0.1483, Train Acc: 94.52%
+Batch 1200/2797, Loss: 0.1482, Train Acc: 94.52%
+Batch 1205/2797, Loss: 0.1482, Train Acc: 94.53%
+Batch 1210/2797, Loss: 0.1483, Train Acc: 94.52%
+Batch 1215/2797, Loss: 0.1483, Train Acc: 94.53%
+Batch 1220/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1225/2797, Loss: 0.1483, Train Acc: 94.52%
+Batch 1230/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1235/2797, Loss: 0.1486, Train Acc: 94.51%
+Batch 1240/2797, Loss: 0.1486, Train Acc: 94.51%
+Batch 1245/2797, Loss: 0.1486, Train Acc: 94.51%
+Batch 1250/2797, Loss: 0.1485, Train Acc: 94.51%
+Batch 1255/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1260/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1265/2797, Loss: 0.1485, Train Acc: 94.52%
+Batch 1270/2797, Loss: 0.1485, Train Acc: 94.52%
+Batch 1275/2797, Loss: 0.1485, Train Acc: 94.52%
+Batch 1280/2797, Loss: 0.1485, Train Acc: 94.52%
+Batch 1285/2797, Loss: 0.1486, Train Acc: 94.51%
+Batch 1290/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1295/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1300/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1305/2797, Loss: 0.1485, Train Acc: 94.52%
+Batch 1310/2797, Loss: 0.1484, Train Acc: 94.53%
+Batch 1315/2797, Loss: 0.1485, Train Acc: 94.52%
+Batch 1320/2797, Loss: 0.1485, Train Acc: 94.52%
+Batch 1325/2797, Loss: 0.1485, Train Acc: 94.52%
+Batch 1330/2797, Loss: 0.1485, Train Acc: 94.52%
+Batch 1335/2797, Loss: 0.1485, Train Acc: 94.52%
+Batch 1340/2797, Loss: 0.1485, Train Acc: 94.52%
+Batch 1345/2797, Loss: 0.1485, Train Acc: 94.52%
+Batch 1350/2797, Loss: 0.1484, Train Acc: 94.52%
+Batch 1355/2797, Loss: 0.1485, Train Acc: 94.51%
+Batch 1360/2797, Loss: 0.1485, Train Acc: 94.51%
+Batch 1365/2797, Loss: 0.1486, Train Acc: 94.51%
+Batch 1370/2797, Loss: 0.1487, Train Acc: 94.51%
+Batch 1375/2797, Loss: 0.1487, Train Acc: 94.51%
+Batch 1380/2797, Loss: 0.1488, Train Acc: 94.50%
+Batch 1385/2797, Loss: 0.1487, Train Acc: 94.51%
+Batch 1390/2797, Loss: 0.1487, Train Acc: 94.50%
+Batch 1395/2797, Loss: 0.1487, Train Acc: 94.50%
+Batch 1400/2797, Loss: 0.1485, Train Acc: 94.51%
+Batch 1405/2797, Loss: 0.1484, Train Acc: 94.51%
+Batch 1410/2797, Loss: 0.1485, Train Acc: 94.51%
+Batch 1415/2797, Loss: 0.1484, Train Acc: 94.51%
+Batch 1420/2797, Loss: 0.1484, Train Acc: 94.51%
+Batch 1425/2797, Loss: 0.1485, Train Acc: 94.51%
+Batch 1430/2797, Loss: 0.1485, Train Acc: 94.51%
+Batch 1435/2797, Loss: 0.1484, Train Acc: 94.51%
+Batch 1440/2797, Loss: 0.1484, Train Acc: 94.51%
+Batch 1445/2797, Loss: 0.1485, Train Acc: 94.51%
+Batch 1450/2797, Loss: 0.1486, Train Acc: 94.51%
+Batch 1455/2797, Loss: 0.1486, Train Acc: 94.50%
+Batch 1460/2797, Loss: 0.1485, Train Acc: 94.50%
+Batch 1465/2797, Loss: 0.1485, Train Acc: 94.50%
+Batch 1470/2797, Loss: 0.1486, Train Acc: 94.50%
+Batch 1475/2797, Loss: 0.1487, Train Acc: 94.49%
+Batch 1480/2797, Loss: 0.1487, Train Acc: 94.49%
+Batch 1485/2797, Loss: 0.1488, Train Acc: 94.49%
+Batch 1490/2797, Loss: 0.1488, Train Acc: 94.49%
+Batch 1495/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 1500/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 1505/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 1510/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1515/2797, Loss: 0.1488, Train Acc: 94.49%
+Batch 1520/2797, Loss: 0.1487, Train Acc: 94.49%
+Batch 1525/2797, Loss: 0.1487, Train Acc: 94.49%
+Batch 1530/2797, Loss: 0.1487, Train Acc: 94.49%
+Batch 1535/2797, Loss: 0.1488, Train Acc: 94.49%
+Batch 1540/2797, Loss: 0.1488, Train Acc: 94.49%
+Batch 1545/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1550/2797, Loss: 0.1488, Train Acc: 94.48%
+Batch 1555/2797, Loss: 0.1489, Train Acc: 94.48%
+Batch 1560/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 1565/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 1570/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1575/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 1580/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1585/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1590/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1595/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1600/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1605/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1610/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1615/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1620/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1625/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1630/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1635/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 1640/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 1645/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1650/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1655/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1660/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1665/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1670/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1675/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1680/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 1685/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 1690/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 1695/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 1700/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 1705/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 1710/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 1715/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1720/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1725/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1730/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1735/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1740/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1745/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 1750/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 1755/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 1760/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1765/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1770/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1775/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 1780/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 1785/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 1790/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 1795/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 1800/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 1805/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 1810/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1815/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1820/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1825/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1830/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1835/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1840/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1845/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 1850/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1855/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1860/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1865/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1870/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1875/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1880/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1885/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 1890/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 1895/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1900/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1905/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 1910/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 1915/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 1920/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1925/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 1930/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 1935/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 1940/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1945/2797, Loss: 0.1493, Train Acc: 94.44%
+Batch 1950/2797, Loss: 0.1492, Train Acc: 94.44%
+Batch 1955/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 1960/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1965/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1970/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1975/2797, Loss: 0.1490, Train Acc: 94.45%
+Batch 1980/2797, Loss: 0.1490, Train Acc: 94.45%
+Batch 1985/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1990/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 1995/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 2000/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 2005/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 2010/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 2015/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 2020/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 2025/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 2030/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 2035/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 2040/2797, Loss: 0.1492, Train Acc: 94.45%
+Batch 2045/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 2050/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 2055/2797, Loss: 0.1491, Train Acc: 94.45%
+Batch 2060/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 2065/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2070/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2075/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2080/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2085/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2090/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2095/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2100/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2105/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2110/2797, Loss: 0.1489, Train Acc: 94.46%
+Batch 2115/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2120/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2125/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2130/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2135/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2140/2797, Loss: 0.1489, Train Acc: 94.46%
+Batch 2145/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2150/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2155/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2160/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2165/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2170/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2175/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2180/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2185/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2190/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2195/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2200/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2205/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2210/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2215/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2220/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2225/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2230/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2235/2797, Loss: 0.1489, Train Acc: 94.47%
+Batch 2240/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2245/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2250/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2255/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2260/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2265/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2270/2797, Loss: 0.1490, Train Acc: 94.46%
+Batch 2275/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2280/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2285/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2290/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2295/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2300/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2305/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2310/2797, Loss: 0.1490, Train Acc: 94.47%
+Batch 2315/2797, Loss: 0.1491, Train Acc: 94.47%
+Batch 2320/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2325/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 2330/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2335/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 2340/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2345/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 2350/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2355/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2360/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2365/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2370/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2375/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2380/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2385/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2390/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2395/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2400/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2405/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2410/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2415/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2420/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2425/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2430/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2435/2797, Loss: 0.1493, Train Acc: 94.46%
+Batch 2440/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2445/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2450/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2455/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2460/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2465/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2470/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2475/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2480/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 2485/2797, Loss: 0.1491, Train Acc: 94.46%
+Batch 2490/2797, Loss: 0.1492, Train Acc: 94.46%
+Batch 2495/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2500/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2505/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2510/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2515/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2520/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2525/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2530/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2535/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2540/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2545/2797, Loss: 0.1493, Train Acc: 94.45%
+Batch 2550/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2555/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2560/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2565/2797, Loss: 0.1495, Train Acc: 94.45%
+Batch 2570/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2575/2797, Loss: 0.1494, Train Acc: 94.45%
+Batch 2580/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2585/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2590/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2595/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2600/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 2605/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2610/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 2615/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2620/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2625/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2630/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2635/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2640/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2645/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 2650/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2655/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2660/2797, Loss: 0.1495, Train Acc: 94.43%
+Batch 2665/2797, Loss: 0.1495, Train Acc: 94.43%
+Batch 2670/2797, Loss: 0.1495, Train Acc: 94.43%
+Batch 2675/2797, Loss: 0.1496, Train Acc: 94.43%
+Batch 2680/2797, Loss: 0.1495, Train Acc: 94.43%
+Batch 2685/2797, Loss: 0.1496, Train Acc: 94.43%
+Batch 2690/2797, Loss: 0.1495, Train Acc: 94.43%
+Batch 2695/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2700/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2705/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 2710/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2715/2797, Loss: 0.1495, Train Acc: 94.44%
+Batch 2720/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 2725/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 2730/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 2735/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 2740/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 2745/2797, Loss: 0.1493, Train Acc: 94.44%
+Batch 2750/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 2755/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 2760/2797, Loss: 0.1493, Train Acc: 94.44%
+Batch 2765/2797, Loss: 0.1493, Train Acc: 94.44%
+Batch 2770/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 2775/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 2780/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 2785/2797, Loss: 0.1493, Train Acc: 94.44%
+Batch 2790/2797, Loss: 0.1494, Train Acc: 94.44%
+Batch 2795/2797, Loss: 0.1494, Train Acc: 94.44%
+Learning Rate: 0.000000
+Epoch 24/50, Average Loss: 0.1495, Train Accuracy: 94.44%
+Validation Batch 5/700, Validation Accuracy: 95.62%
+Validation Batch 10/700, Validation Accuracy: 94.30%
+Validation Batch 15/700, Validation Accuracy: 93.33%
+Validation Batch 20/700, Validation Accuracy: 92.54%
+Validation Batch 25/700, Validation Accuracy: 92.16%
+Validation Batch 30/700, Validation Accuracy: 92.06%
+Validation Batch 35/700, Validation Accuracy: 92.05%
+Validation Batch 40/700, Validation Accuracy: 92.11%
+Validation Batch 45/700, Validation Accuracy: 92.17%
+Validation Batch 50/700, Validation Accuracy: 92.39%
+Validation Batch 55/700, Validation Accuracy: 92.39%
+Validation Batch 60/700, Validation Accuracy: 92.29%
+Validation Batch 65/700, Validation Accuracy: 92.30%
+Validation Batch 70/700, Validation Accuracy: 92.38%
+Validation Batch 75/700, Validation Accuracy: 92.38%
+Validation Batch 80/700, Validation Accuracy: 92.25%
+Validation Batch 85/700, Validation Accuracy: 92.13%
+Validation Batch 90/700, Validation Accuracy: 92.12%
+Validation Batch 95/700, Validation Accuracy: 92.06%
+Validation Batch 100/700, Validation Accuracy: 92.03%
+Validation Batch 105/700, Validation Accuracy: 92.05%
+Validation Batch 110/700, Validation Accuracy: 92.03%
+Validation Batch 115/700, Validation Accuracy: 92.03%
+Validation Batch 120/700, Validation Accuracy: 92.03%
+Validation Batch 125/700, Validation Accuracy: 92.03%
+Validation Batch 130/700, Validation Accuracy: 92.03%
+Validation Batch 135/700, Validation Accuracy: 91.96%
+Validation Batch 140/700, Validation Accuracy: 91.92%
+Validation Batch 145/700, Validation Accuracy: 91.91%
+Validation Batch 150/700, Validation Accuracy: 91.94%
+Validation Batch 155/700, Validation Accuracy: 91.95%
+Validation Batch 160/700, Validation Accuracy: 91.92%
+Validation Batch 165/700, Validation Accuracy: 91.93%
+Validation Batch 170/700, Validation Accuracy: 91.93%
+Validation Batch 175/700, Validation Accuracy: 91.98%
+Validation Batch 180/700, Validation Accuracy: 91.98%
+Validation Batch 185/700, Validation Accuracy: 92.01%
+Validation Batch 190/700, Validation Accuracy: 92.00%
+Validation Batch 195/700, Validation Accuracy: 92.01%
+Validation Batch 200/700, Validation Accuracy: 92.00%
+Validation Batch 205/700, Validation Accuracy: 91.97%
+Validation Batch 210/700, Validation Accuracy: 91.99%
+Validation Batch 215/700, Validation Accuracy: 91.99%
+Validation Batch 220/700, Validation Accuracy: 91.96%
+Validation Batch 225/700, Validation Accuracy: 92.01%
+Validation Batch 230/700, Validation Accuracy: 91.98%
+Validation Batch 235/700, Validation Accuracy: 91.95%
+Validation Batch 240/700, Validation Accuracy: 91.96%
+Validation Batch 245/700, Validation Accuracy: 91.99%
+Validation Batch 250/700, Validation Accuracy: 91.97%
+Validation Batch 255/700, Validation Accuracy: 92.01%
+Validation Batch 260/700, Validation Accuracy: 92.01%
+Validation Batch 265/700, Validation Accuracy: 91.98%
+Validation Batch 270/700, Validation Accuracy: 91.98%
+Validation Batch 275/700, Validation Accuracy: 91.97%
+Validation Batch 280/700, Validation Accuracy: 91.96%
+Validation Batch 285/700, Validation Accuracy: 91.99%
+Validation Batch 290/700, Validation Accuracy: 92.01%
+Validation Batch 295/700, Validation Accuracy: 92.03%
+Validation Batch 300/700, Validation Accuracy: 92.03%
+Validation Batch 305/700, Validation Accuracy: 92.04%
+Validation Batch 310/700, Validation Accuracy: 92.02%
+Validation Batch 315/700, Validation Accuracy: 92.02%
+Validation Batch 320/700, Validation Accuracy: 92.00%
+Validation Batch 325/700, Validation Accuracy: 92.00%
+Validation Batch 330/700, Validation Accuracy: 91.99%
+Validation Batch 335/700, Validation Accuracy: 92.01%
+Validation Batch 340/700, Validation Accuracy: 92.02%
+Validation Batch 345/700, Validation Accuracy: 92.02%
+Validation Batch 350/700, Validation Accuracy: 92.03%
+Validation Batch 355/700, Validation Accuracy: 92.00%
+Validation Batch 360/700, Validation Accuracy: 92.02%
+Validation Batch 365/700, Validation Accuracy: 92.00%
+Validation Batch 370/700, Validation Accuracy: 91.99%
+Validation Batch 375/700, Validation Accuracy: 92.00%
+Validation Batch 380/700, Validation Accuracy: 92.00%
+Validation Batch 385/700, Validation Accuracy: 92.00%
+Validation Batch 390/700, Validation Accuracy: 91.96%
+Validation Batch 395/700, Validation Accuracy: 91.96%
+Validation Batch 400/700, Validation Accuracy: 91.96%
+Validation Batch 405/700, Validation Accuracy: 91.94%
+Validation Batch 410/700, Validation Accuracy: 91.93%
+Validation Batch 415/700, Validation Accuracy: 91.94%
+Validation Batch 420/700, Validation Accuracy: 91.95%
+Validation Batch 425/700, Validation Accuracy: 91.95%
+Validation Batch 430/700, Validation Accuracy: 91.97%
+Validation Batch 435/700, Validation Accuracy: 91.96%
+Validation Batch 440/700, Validation Accuracy: 91.95%
+Validation Batch 445/700, Validation Accuracy: 91.96%
+Validation Batch 450/700, Validation Accuracy: 91.98%
+Validation Batch 455/700, Validation Accuracy: 91.99%
+Validation Batch 460/700, Validation Accuracy: 92.01%
+Validation Batch 465/700, Validation Accuracy: 92.01%
+Validation Batch 470/700, Validation Accuracy: 92.02%
+Validation Batch 475/700, Validation Accuracy: 92.00%
+Validation Batch 480/700, Validation Accuracy: 92.01%
+Validation Batch 485/700, Validation Accuracy: 92.02%
+Validation Batch 490/700, Validation Accuracy: 92.03%
+Validation Batch 495/700, Validation Accuracy: 92.03%
+Validation Batch 500/700, Validation Accuracy: 92.03%
+Validation Batch 505/700, Validation Accuracy: 92.05%
+Validation Batch 510/700, Validation Accuracy: 92.04%
+Validation Batch 515/700, Validation Accuracy: 92.05%
+Validation Batch 520/700, Validation Accuracy: 92.05%
+Validation Batch 525/700, Validation Accuracy: 92.03%
+Validation Batch 530/700, Validation Accuracy: 92.03%
+Validation Batch 535/700, Validation Accuracy: 92.02%
+Validation Batch 540/700, Validation Accuracy: 92.01%
+Validation Batch 545/700, Validation Accuracy: 92.00%
+Validation Batch 550/700, Validation Accuracy: 92.00%
+Validation Batch 555/700, Validation Accuracy: 91.99%
+Validation Batch 560/700, Validation Accuracy: 91.97%
+Validation Batch 565/700, Validation Accuracy: 91.97%
+Validation Batch 570/700, Validation Accuracy: 91.97%
+Validation Batch 575/700, Validation Accuracy: 91.96%
+Validation Batch 580/700, Validation Accuracy: 91.97%
+Validation Batch 585/700, Validation Accuracy: 91.99%
+Validation Batch 590/700, Validation Accuracy: 91.97%
+Validation Batch 595/700, Validation Accuracy: 91.97%
+Validation Batch 600/700, Validation Accuracy: 91.97%
+Validation Batch 605/700, Validation Accuracy: 91.98%
+Validation Batch 610/700, Validation Accuracy: 91.98%
+Validation Batch 615/700, Validation Accuracy: 91.96%
+Validation Batch 620/700, Validation Accuracy: 91.94%
+Validation Batch 625/700, Validation Accuracy: 91.94%
+Validation Batch 630/700, Validation Accuracy: 91.94%
+Validation Batch 635/700, Validation Accuracy: 91.93%
+Validation Batch 640/700, Validation Accuracy: 91.92%
+Validation Batch 645/700, Validation Accuracy: 91.94%
+Validation Batch 650/700, Validation Accuracy: 91.95%
+Validation Batch 655/700, Validation Accuracy: 91.96%
+Validation Batch 660/700, Validation Accuracy: 91.96%
+Validation Batch 665/700, Validation Accuracy: 91.96%
+Validation Batch 670/700, Validation Accuracy: 91.96%
+Validation Batch 675/700, Validation Accuracy: 91.97%
+Validation Batch 680/700, Validation Accuracy: 91.97%
+Validation Batch 685/700, Validation Accuracy: 91.97%
+Validation Batch 690/700, Validation Accuracy: 91.97%
+Validation Batch 695/700, Validation Accuracy: 91.96%
+Validation Batch 700/700, Validation Accuracy: 91.96%
+Validation Accuracy for Epoch 24: 91.96%
+Early stopping triggered.
+swanlab: Experiment Kepler-MoE has completed
+swanlab: 🌟 Run `swanlab watch /home/moe_test/swanlog` to view SwanLab Experiment Dashboard locally
